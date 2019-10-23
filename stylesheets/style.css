@@ -1,0 +1,983 @@
+
+
+
+
+body {
+	background-color: #0000;
+	margin:0;
+	padding: 0;
+}
+
+/****************************** NAVBAR START  *********************************-----*/
+.SECTION-ONE {
+	width:100%;
+}
+
+.nav-bar {
+	border:none;
+	height:25px;
+	width:100%; 
+}
+
+#log-img {
+	height:100%;
+	width:25px;
+	padding-left: 15px;
+	float:left;
+	padding-top: 14px;
+	
+}
+
+.navigation-list {
+	float:right;
+	text-align: center;
+	padding-bottom:10px;
+}
+
+#ol-about{
+	margin-right:30px;
+	list-style-type:none;
+	float:right;
+}
+
+#li-about{
+	margin-right:30px;
+	list-style-type:none;
+	float:left;
+}
+
+a{
+	text-decoration:none;
+	color:gray;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	
+}
+
+/******************************************************** NAVBAR END*****************************************************/
+
+
+
+/***********************secound section*******************************************************/
+.SECTION-TWO{
+	width:100%;
+}
+
+#img-2{
+	width:100%;
+	height: 100%;
+}
+
+
+
+
+/***********************************Third section*********************************************/
+.SECTION-THIRD {
+	width:100%;
+	height:400px;
+	background-color:#f0f0f0; 
+}
+
+.sec-1 {
+	height:100%;
+	width:40%;
+	float: left;
+}
+
+.sec-2 {
+	height:100%;
+	width:60%;
+	float: right;
+}
+
+#aboutus
+{
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	margin-right: 40px;
+}
+
+#aboutus-line
+{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-left:159px;
+	margin-right: 159px;
+	margin-top:-20px;
+	margin-bottom:-20px;
+}
+
+
+#para-aboutus
+{
+	font-family:Arial, Helvetica, sans-serif;
+	padding-top: 120px;
+	padding-left:165px;
+	justify-content: center;                                                     
+	text-align: justify;
+	justify-content: center;
+	height:200px;
+	width:450px;
+	font-size:14px;
+	color:gray;
+	letter-spacing: 2px;
+	line-height: 1.8;
+	font-weight: 600px;
+}
+
+
+
+
+
+
+/*****************************************************************Fourth section****************************/
+.SECTION-FOUR{
+	width:100%;
+	height:500px;
+}
+
+.sec-3{
+	border:0px solid black;
+	height:100%;
+	width:40%;
+	float:left;
+}
+
+#Experitise{
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	margin-left: 56px;
+}
+
+
+#experities-line{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left:165px;
+	margin-right: 165px;
+}
+
+
+progress{
+	height: .3em;
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+	margin-top: 35px;
+	padding-left:165px;
+}
+
+
+small{
+	padding-left:165px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:gray;
+}
+
+progress:after{
+	content: attr(data-label);
+	font-size: 0.8em;
+	vertical-align: 0; 
+	padding-left: 290px;
+}
+
+
+.sec-4{
+	border:0px solid black;
+	height:100%;
+	width:60%;
+	display: inline;
+	float:left;
+}
+
+#para-experities{
+	font-family:Arial, Helvetica, sans-serif;
+	padding-top: 200px;
+	padding-left:165px;
+	justify-content: center;                                                     
+	text-align: justify;
+	justify-content: center;
+	height:200px;
+	width:450px;
+	font-size:14px;
+	color:gray;
+	letter-spacing: 2px;
+	line-height: 1.8;
+	font-weight: 600px;
+}
+
+
+
+
+
+/******************************************************Fifth section**************************************/
+.SECTION-FIVE{
+	width:100%;
+	height:325px;
+}
+.sec-5{
+	border:0px solid red;
+	height:100%;
+	width:33.33%;
+	float:left;
+}
+
+.sec-6{
+	border:0px solid red;
+	height:100%;
+	width:33.33%;
+	float:left;
+}
+
+.sec-7{
+	border:0px solid red;
+	height:100%;
+	width:33.33%;
+	float:left;
+}
+
+#google-plus{
+	height:40px;
+	width:40px;
+	padding-bottom:95px;
+	padding-top:95px;
+	padding-right: 20px;
+	padding-left: 20PX;
+	margin-left: 20px;
+	float:left;
+}
+
+#heading-graphics{
+	padding-top:80px ;
+	font-family:Arial, Helvetica, sans-serif;
+	color:gray;
+	font-size: 16PX;
+	
+	
+}
+
+#para-google{
+	font-family:Arial, Helvetica, sans-serif;
+	padding-right: 0px;                                                    
+	text-align: justify;
+	justify-content: center;
+	font-size:14px;
+	color:gray;
+	letter-spacing: 1px;
+	line-height: 1.4;
+	font-weight: 600px;
+	width:360px;
+}
+
+
+
+
+
+/***********************************************************Sixth section**************************************************/
+.SECTION-SIX{
+	width:100%;
+	height:700px;
+}
+
+.sec-8{
+	border:0px solid black;
+	height:100%;
+	width:50%;
+	float:left;
+	background-color:#f0f0f0; 
+}
+
+#sec-6-img{
+	height:100%;
+	width:100%;
+}
+
+
+#heading-letsmake{
+	font-size:36px;
+	color:#000000;
+	padding-top: 130PX;
+	padding-left: 150px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+#line-letsmake{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:40px;
+	margin-bottom: 30px;
+	margin-left: 150px;
+	margin-right: 100px;
+}
+
+
+#para-letsmake{
+	font-family:Arial, Helvetica, sans-serif;
+	justify-content: center;                                                     
+	text-align: justify;
+	padding-top: 40PX;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-size:14px;
+	color:gray;
+	letter-spacing: 2px;
+	line-height: 1.8;
+	font-weight: 600px;
+	width:55%;
+}
+
+
+
+
+/*******************************************************seventh section**************************************************************/
+.SECTION-SEVEN{
+	height:250px;
+	width:100%;
+}
+
+
+.sec-9{
+	height:100%;
+	width:40%;
+	float:left;
+	
+}
+
+#heading-portfolio{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 80px;
+	margin-right:40px;
+	text-align:center;
+	
+}
+#line-portfolio{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left:165px;
+	margin-right: 165px;
+}
+
+
+.sec-10{
+	border:0px solid black;
+	height:100%;
+	width:60%;
+	float:left;
+}
+
+.list-portfolio{
+	float:right;
+	text-decoration: none;
+	margin-top: 100px;
+	padding-right: 10px;
+	margin-right:150px;
+	
+}
+
+#ul-portfolio{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+}
+
+
+#li-portfolio{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+	color:gray;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	padding-left: 14px;
+	
+}
+
+
+
+
+/***********************************************Eighth section*************************************************************/
+.SECTION-EIGHT{
+	width:100%;
+	height:600px;
+	border:0px solid red;
+	background-color: white;
+	
+}
+
+
+.item-1{
+	border:5px solid white;
+	height:310px;
+	width:300px;
+	float:left;
+	padding-left:0px;
+	padding-right: 0px;
+	margin-left:13px;
+	margin-right: 0px;
+	margin-top: 10px;
+	background-color: #f0f0f0;
+}
+
+
+
+
+
+
+
+/********************************************Nineth section*******************************************/
+.SECTION-NINE{
+	width:100%;
+	height:130px;
+	background-color: #f0f0f0;
+	margin-top: 140px;
+	
+}
+
+#heading-viewmore{
+	font-size:25px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+	color:#d4cfcd;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-weight:100pX;
+}
+
+
+
+
+/**********************************************************Thenth section*********************************************************************/
+.SECTION-TEN{
+	width:100%;
+	height:400px;
+	background-color: white;
+}
+
+#para-sec-ten{
+	font-family:Arial, Helvetica, sans-serif;
+	color:gray;
+	text-align: center;
+	letter-spacing: 2px;
+	line-height: 1.8;
+	font-weight: 600px;
+	width:50%;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 135px;
+	padding-bottom: 135px;
+}
+
+
+
+/*#barry-allen{
+	text-align: center;
+	font-family:Arial, Helvetica, sans-serif;
+	color:gray;
+	padding-top: -100px;
+	width:100%;
+	
+	
+}
+/************************************************************Eleventh section************************************************/
+.SECTION-ELEVEN{
+	width:100%;
+	height:360px;
+	
+}
+
+#sec-11-img{
+	height:100%;
+	width:100%;
+}
+
+
+
+
+/**************************************************************************Twelve section*******************************************************/
+
+.SECTION-TWELVE{
+	width:100%;
+	height:350px;
+	
+}
+
+
+.list-number{
+	float:left;
+	text-decoration: none;
+	margin-top: 100px;
+	text-align:center;
+	
+}
+
+#ul-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:50px;
+	padding-left:120px;
+	font-family:cursive;
+}
+
+#li-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:50px;
+	padding-left:170px;
+}
+
+#web{
+	font-size:15px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#0e5beb;
+}
+
+
+
+
+
+
+/**********************************************************Thirteen section**************************************************************************/
+.SECTION-THIRTEEN{
+	width:100%;
+	height:600px;
+	border:0px solid black;
+}
+
+
+
+#sec-13-img{width:100%;
+	height:100%;
+}
+
+
+
+
+/*******************************************************fourth section***********************************************************************/
+.SECTION-FOURTEEN{
+	width:100%;
+	height:700px;
+	border:0px solid black;
+}
+
+#heading-ourteam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	padding-left: 176PX;
+}
+
+
+#line-ourteam{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 180px;
+	margin-right: 180px;
+}
+
+
+.sec-user{
+	margin-left:165px;
+	margin-right: 165px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+#user-1{
+	height:300px;
+	width:300PX;
+	border:0px solid black;
+	float:left;
+	padding-left: 5PX;
+}
+
+
+
+#user-img{
+	height:100%;
+	width:100%;
+}
+
+#barry-1{
+	padding-left: 110PX;
+	padding-right: 110PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	color: gray;
+}
+
+
+
+
+
+
+
+/*******************************************************Fifteenth section**********************************************************/
+.SECTION-FIFTEEN{
+	width:100%;
+	height:910px;
+	border:0px solid black;
+	background-color:#f0f0f0; 
+}
+
+#heading-pricing{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	padding-left: 163PX;
+	
+}
+
+
+#line-pricing{
+	width:36px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 165px;
+	margin-right: 165px;
+}
+
+
+.pricing-card{
+	margin-left:140px;
+	margin-right: 140px;
+	padding-top: 90px;
+	padding-bottom: 50px;
+}
+
+
+#card-1{
+	height:550px;
+	width:300px;
+	border:none;
+	float:left;
+	margin-left:27px;
+	border-radius: 1px;
+	background-color: white;
+	
+}
+
+h5{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:15px;
+	padding-left: 20px;
+}
+
+#doller{
+	font-size:20px;
+	
+}
+
+#num{
+	font-size:75px;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+#month{
+	font-size:17px;
+	color:gray;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+.h-1{
+	padding-left: 100px;
+}
+
+
+table{
+	padding-left: 100px;
+	padding-top: 90PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: 15px;
+	
+}
+
+
+tr,td{
+	
+	padding-top: 20px;
+	color:gray;
+}
+
+
+h4{
+	padding-left: 90px;
+	padding-top: 40px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color:#302e2e;
+}
+
+
+
+
+/*****************************************************sixteen section***************************************************/
+
+.SECTION-SIXTEEN {
+	width:100%;
+	height:800px;
+}
+
+
+.sec-getintouch-1{
+	border:0px solid black;
+	height:100%;
+	width:55%;
+	float:left;
+	background-color:white; 
+}
+
+
+.sec-getintouch-2{
+	border:0px solid black;
+	height:100%;
+	width:45%;
+	float:left;
+	background-color:white; 
+}
+
+
+
+#heading-getintouch{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	padding-left: 163PX;
+	
+}
+
+#line-getintouch{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-bottom:20px;
+	margin-left: 165px;
+	margin-right: 165px;
+}
+
+.login{
+	border: 0px solid black;
+	height:400px;
+	width:400px;
+	margin-left: 165px;
+	padding-top: 50px;
+}
+
+
+.placeholder{
+	color:#E6E3E3;
+	
+}
+
+
+input{
+	width: 100%;
+	padding: 15px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+	color:#E6E3E3;
+}
+
+textarea{
+	width: 100%;
+	padding: 70px 20px;
+	margin: 8px 0PX;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+}
+
+
+button{
+	background-color: black;
+	color:white;
+	border:1px solid black;
+	height:28px;
+	width:200px;
+	font-size: 11px;
+}
+
+
+
+
+
+#sec-16-img{
+	height:100%;
+	width:100%;
+}
+
+
+
+
+
+/*********************************************************Seventeen section********************************************/
+.SECTION-SEVENTEEN{
+	border:0px solid red;
+	height:450px;
+	width:100%;
+	background-color: #333131;
+}
+
+#img-footer{
+	height:80px;
+	width:80px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 60px;
+	
+}
+
+
+#line-footer{
+	width:190px;
+	border:2px solid #ffbb00;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:50px;
+	
+	
+}
+
+.list-footer-1{
+	
+	float:left;
+	margin-top:50px; 
+	padding-left:350px;
+	
+	
+	
+}
+
+#l-footer,li{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+	float:left;
+	
+	
+}
+
+
+.list-footer-2{
+	color:white;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-left: 580px;
+	color:#4c4d4f;
+	
+}
+
+#l-footer-add{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+	float:left;     
+}
+
+.number{
+	text-align: center;
+	font-family:"Times New Roman", Times, serif;
+	font-size: 14px;
+	color:gray; 
+}
+
+.email{
+	text-align: center;
+	color:gray;
+	font-size: 14;
+	font-family:"Times New Roman", Times, serif;
+	padding-top: 10px; 
+}
+
+
+
+
+
+/*************************************Eightteen section***********************************************/
+.SECTION-EIGHTEEN{
+	border:0px solid red;
+	height:120px;
+	width:100%;
+	background-color: #251E1E ;	
+}
+
+.mytheam{
+	text-align: center;
+	color:gray ;
+	padding-top: 50px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+
+/***************************************************END*****************************************************/
+
+
+
+
+/***************************************using meadia query*********************************************/
+/* For mobile phones: */
+[class*="col-"] {
+	width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+	/* For desktop: */
+	.col-1 {width: 8.33%;}
+	.col-2 {width: 16.66%;}
+	.col-3 {width: 25%;}
+	.col-4 {width: 33.33%;}
+	.col-5 {width: 41.66%;}
+	.col-6 {width: 50%;}
+	.col-7 {width: 58.33%;}
+	.col-8 {width: 66.66%;}
+	.col-9 {width: 75%;}
+	.col-10 {width: 83.33%;}
+	.col-11 {width: 91.66%;}
+	.col-12 {width: 100%;}
+}
+
+
+
+
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 768px) {
+	/* For mobile phones: */
+	[class*="col-"] {
+		width: 100%;
+	}
+}
+
+/****************************************/
