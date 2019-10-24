@@ -1,0 +1,483 @@
+
+/******************FOR MOBILE******************/
+
+@media only screen  and (min-width:0px) and (max-width: 320px) {
+    .SECTION-ONE {
+        width:100%;
+        padding-top: 0;
+        margin-top: 0;
+    }
+
+    .nav-bar {
+        border:none;
+        height:25px;
+        width:100%; 
+    }
+    #log-img {
+        height:100%;
+        width:25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float:left;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        
+    }
+    .navigation-list {
+        float:right;
+        text-align: center;
+        padding-bottom:10px;
+        display:none;
+    }
+    
+    #ol-about{
+        margin-right:30px;
+        list-style-type:none;350px
+        float:right;
+    }
+    
+    #li-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:left;
+    }
+    
+    a{
+        text-decoration:none;
+        color:gray;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+
+    .SECTION-TWO{
+        width:100%;
+        height:200px;
+    }
+    
+    #img-2{
+        width:100%;
+        height: 100%;
+    }
+}
+
+/******************FOR MOBILE-M-375******************/
+
+@media only screen  and (min-width:321px) and (max-width: 375px) {
+    .SECTION-ONE {
+        width:100%;
+    }
+    .nav-bar {
+        border:none;
+        height:25px;
+        width:100%; 
+    }
+    #log-img {
+        height:100%;
+        width:25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float:left;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        
+    }
+    .navigation-list {
+        float:right;
+        text-align: center;
+        padding-bottom:10px;
+        display:none;
+    }
+    
+    #ol-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:right;
+    }
+    
+    #li-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:left;
+    }
+    
+    a{
+        text-decoration:none;
+        color:gray;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+    .SECTION-TWO{
+        width:100%;
+        height:210px;
+    }
+    
+    #img-2{
+        width:100%;
+        height: 100%;
+    }
+}
+
+
+/******************FOR MOBILE-L-425******************/
+@media only screen  and (min-width:376px) and (max-width: 425px) {
+    .SECTION-ONE {
+        width:100%;
+    }
+
+    .nav-bar {
+        border:none;
+        height:25px;
+        width:100%; 
+    }
+    #log-img {
+        height:100%;
+        width:25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float:left;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        
+    }
+    .navigation-list {
+        float:right;
+        text-align: center;
+        padding-bottom:10px;
+        display:none;
+    }
+    
+    #ol-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:right;
+    }
+    
+    #li-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:left;
+    }
+    
+    a{
+        text-decoration:none;
+        color:gray;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+    .SECTION-TWO{
+        width:100%;
+        height:230px;
+    }
+    
+    #img-2{
+        width:100%;
+        height: 100%;
+    }
+}
+
+/******************FOR TABLET-768******************/
+@media only screen  and (min-width:426px) and (max-width: 768px) {
+    .SECTION-ONE {
+        width:100%;
+    }
+
+    .nav-bar {
+        border:none;
+        height:25px;
+        width:100%; 
+    }
+    #log-img {
+        height:100%;
+        width:25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float:left;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        
+    }
+    .navigation-list {
+        float:right;
+        text-align: center;
+        padding-bottom:10px;
+        display:none;
+    }
+    
+    #ol-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:right;
+    }
+    
+    #li-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:left;
+    }
+    
+    a{
+        text-decoration:none;
+        color:gray;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+    .SECTION-TWO{
+        width:100%;
+        height:320px;
+    }
+    
+    #img-2{
+        width:100%;
+        height: 100%;
+    }
+}
+
+
+/******************FOR LAPTOP-1024******************/
+@media only screen  and (min-width:769px) and (max-width: 1024px) {
+    .SECTION-ONE {
+        width:100%;
+    }
+
+    .nav-bar {
+        border:none;
+        height:25px;
+        width:100%; 
+    }
+    #log-img {
+        height:100%;
+        width:25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float:left;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        
+    }
+    .navigation-list {
+        float:right;
+        text-align: center;
+        padding-bottom:10px;
+        
+    }
+    
+    #ol-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:right;
+    }
+    
+    #li-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:left;
+    }
+    
+    a{
+        text-decoration:none;
+        color:gray;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+
+    .SECTION-TWO{
+        width:100%;
+        height:420px;
+    }
+    
+    #img-2{
+        width:100%;
+        height: 100%;
+    }
+}
+
+/******************FOR LAPTOP-L-1440******************/
+@media only screen  and (min-width:1025px) and (max-width: 1440px) {
+    .SECTION-ONE {
+        width:100%;
+    }
+
+    .nav-bar {
+        border:none;
+        height:25px;
+        width:100%; 
+    }
+    #log-img {
+        height:100%;
+        width:25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float:left;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        
+    }
+    .navigation-list {
+        float:right;
+        text-align: center;
+        padding-bottom:10px;
+        
+    }
+    
+    #ol-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:right;
+    }
+    
+    #li-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:left;
+    }
+    
+    a{
+        text-decoration:none;
+        color:gray;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+    .SECTION-TWO{
+        width:100%;
+        height:600px;
+    }
+    
+    #img-2{
+        width:100%;
+        height: 100%;
+    }
+}
+
+/******************FOR 1880******************/
+@media only screen  and (min-width:1441px) and (max-width: 1880px) {
+    .SECTION-ONE {
+        width:100%;
+    }
+
+    .nav-bar {
+        border:none;
+        height:25px;
+        width:100%; 
+    }
+    #log-img {
+        height:100%;
+        width:25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float:left;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        
+    }
+    .navigation-list {
+        float:right;
+        text-align: center;
+        padding-bottom:10px;
+    } 
+    
+    #ol-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:right;
+    }
+    
+    #li-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:left;
+    }
+    
+    a{
+        text-decoration:none;
+        color:gray;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+    .SECTION-TWO{
+        width:100%;
+        height:690px;
+    }
+    
+    #img-2{
+        width:100%;
+        height: 100%;
+    }
+}
+
+/******************FOR 4K-2560******************/
+@media only screen  and (min-width:1881px) and (max-width: 2560px) {
+    .SECTION-ONE {
+        width:100%;
+    }
+
+    .nav-bar {
+        border:none;
+        height:25px;
+        width:100%; 
+    }
+    #log-img {
+        height:100%;
+        width:25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        float:left;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        
+    }
+    .navigation-list {
+        float:right;
+        text-align: center;
+        padding-bottom:10px;
+    } 
+    
+    #ol-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:right;
+    }
+    
+    #li-about{
+        margin-right:30px;
+        list-style-type:none;
+        float:left;
+    }
+    
+    a{
+        text-decoration:none;
+        color:gray;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+    .SECTION-TWO{
+        width:100%;
+        height:1000px;
+    }
+    
+    #img-2{
+        width:100%;
+        height: 100%;
+    }
+}
+
+
+
+
+
+/************************FOR IMAGES******************************/
