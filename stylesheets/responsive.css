@@ -478,6 +478,404 @@ a{
 	width:100%;
 }
 
+/********************************START-SECTION-TWELVE*********************************/
+
+.SECTION-TWELVE{
+	width:100%;
+    height:490px;
+   
+	
+}
+
+
+.list-number{
+	
+    text-decoration: none;
+    margin-right: 80px;
+    margin-left: 80px;
+
+	
+	
+}
+
+#ul-num{
+	
+	
+	list-style-type: none;
+    font-size:50px;
+    font-family:cursive;
+}
+
+
+#web{
+	font-size:15px;
+	font-family:Arial, Helvetica, sans-serif;
+    color:#6ad9f7;
+    margin-top: 10px;
+}
+
+
+/******************************START-SECTION-THIRTEEN************************************/
+.SECTION-THIRTEEN{
+	width:100%;
+	height:auto;
+	}
+
+#sec-13-img{
+    width:100%;
+	height:auto;
+}
+
+
+
+/*******************************START-SECTION-FOURTEEN********************************/
+.SECTION-FOURTEEN{
+	width:100%;
+    height:auto;
+}
+
+#heading-ourteam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+    padding-top: 0px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+
+#line-ourteam{
+	width:38px;
+	border:2px solid #ffbb00;
+    margin-top:-20px;
+    margin-right: auto;
+    margin-left: auto;
+	
+}
+
+
+.sec-user{
+	
+	padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+
+
+#user-1{
+	height:300px;
+	width:300PX;
+	background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+
+
+#user-img{
+	height:auto;
+	width:100%;
+}
+
+#barry-1{
+    padding-left: 120px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color: gray;
+}
+
+
+
+/*********************START-SECTION-FIFTEEN************************************************/
+.SECTION-FIFTEEN{
+	width:100%;
+    /* height:910px; */
+    height: auto;
+
+	 background-color:#f0f0f0;  
+}
+
+#heading-pricing{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+    padding-top: 100px;
+    text-align: center;
+
+	
+}
+
+
+#line-pricing{
+	width:36px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pricing-card{
+	/* margin-left:140px;
+	margin-right: 140px; */
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+#card-1{
+	height:550px;
+	width:300px;
+	border:none;
+    margin-right: auto;
+    margin-left: auto;
+	background-color: white;
+	border-radius: 1px;
+	
+	
+}
+
+h5{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:15px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#doller{
+	font-size:20px;
+	
+}
+
+#num{
+	font-size:75px;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+#month{
+	font-size:17px;
+	color:gray;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+.h-1{
+	padding-left: 100px;
+}
+
+
+table{
+	padding-left: 100px;
+	padding-top: 90PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: 15px;
+	
+}
+
+
+tr,td{
+	
+	padding-top: 20px;
+	color:gray;
+}
+
+
+h4{
+	padding-left: 90px;
+	padding-top: 40px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color:#302e2e;
+}
+
+
+
+
+/******************START-SECTION-SIXTEEN**************************************************/
+
+.SECTION-SIXTEEN {
+	width:100%;
+	
+}
+
+
+.sec-getintouch-1{
+	
+	height:600PX;
+	width:100%;
+	
+	
+}
+
+
+
+#heading-getintouch{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 70px;
+	text-align: center;
+	
+}
+
+#line-getintouch{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-bottom:20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+.login{
+    padding-top: 50px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+
+
+
+
+input{
+	width: 100%;
+	padding: 15px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+	color:black;
+}
+
+textarea{
+	width: 100%;
+	padding: 70px 20px;
+	margin: 8px 0PX;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+}
+
+
+button{
+	background-color: black;
+	color:white;
+	border:1px solid black;
+	height:28px;
+	width:200px;
+	font-size: 11px;
+}
+
+.sec-getintouch-2{
+	height:auto;
+	width:100%;
+
+	background-color:white; 
+}
+#sec-16-img{
+	height:auto;
+	width:100%;
+}
+
+
+/************************STRAT-SECTION-SEVENTEEN********************/
+.SECTION-SEVENTEEN{
+	height:600px;
+	width:100%;
+	background-color: #333131;
+}
+
+#img-footer{
+	height:80px;
+	width:80px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 60px;
+	
+}
+
+
+#line-footer{
+	width:190px;
+	border:2px solid #ffbb00;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:50px;
+	
+	
+}
+
+
+
+#l-footer{
+    margin-left:85px;
+    margin-right:85px;
+    list-style-type: none;
+    padding-top: 30px;
+   
+}
+
+
+.list-footer-2{
+	color:white;
+	padding-top: 10px;
+    padding-bottom: 0px;
+    color:#4c4d4f;
+   
+}
+
+#l-footer-add{
+	font-family: "Times New Roman", Times, serif;
+    list-style-type: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top:70px;
+    color:gray;
+   
+}
+
+#f-2{
+    float:left;
+   padding-left: 10px;
+   text-align: center;
+
+
+}
+
+.number{
+	text-align: center;
+	font-family:"Times New Roman", Times, serif;
+	font-size: 14px;
+    color:gray;
+    padding-top: 50px;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+.email{
+	text-align: center;
+	color:gray;
+	font-size: 14;
+	font-family:"Times New Roman", Times, serif;
+	padding-top: 10px; 
+}
+
+
+/*********STRAT-SECTION-EIGHTEEN******************************************/
+.SECTION-EIGHTEEN{
+	border:0px solid red;
+	height:120px;
+	width:100%;
+	background-color: #251E1E ;	
+}
+
+.mytheam{
+	text-align: center;
+	color:gray ;
+	padding-top: 50px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
 }
 /**************************END-SECTION-ONE*******************************************/
 
@@ -961,6 +1359,399 @@ a{
 	width:100%;
 }
 
+/********************************START-SECTION-TWELVE*********************************/
+
+.SECTION-TWELVE{
+	width:100%;
+    height:490px;
+	
+}
+
+
+.list-number{
+	
+    text-decoration: none;
+    margin-right: 100px;
+    margin-left: 100px;
+
+	
+	
+}
+
+#ul-num{
+	
+	
+	list-style-type: none;
+    font-size:50px;
+    font-family:cursive;
+}
+
+
+#web{
+	font-size:15px;
+	font-family:Arial, Helvetica, sans-serif;
+    color:#6ad9f7;
+    margin-top: 10px;
+}
+
+/******************************START-SECTION-THIRTEEN************************************/
+.SECTION-THIRTEEN{
+	width:100%;
+	height:auto;
+	}
+
+#sec-13-img{
+    width:100%;
+	height:auto;
+}
+
+
+/*******************************START-SECTION-FOURTEEN********************************/
+.SECTION-FOURTEEN{
+	width:100%;
+	height:auto;
+	
+}
+
+#heading-ourteam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+    padding-top: 0px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+
+#line-ourteam{
+	width:38px;
+	border:2px solid #ffbb00;
+    margin-top:-20px;
+    margin-right: auto;
+    margin-left: auto;
+	
+}
+
+
+.sec-user{
+	
+	padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+
+
+#user-1{
+	height:300px;
+	width:340PX;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+
+
+#user-img{
+	height:auto;
+	width:100%;
+}
+
+#barry-1{
+    padding-left: 120px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color: gray;
+}
+
+
+/*********************START-SECTION-FIFTEEN************************************************/
+.SECTION-FIFTEEN{
+	width:100%;
+    /* height:910px; */
+    height: auto;
+
+	 background-color:#f0f0f0;  
+}
+
+#heading-pricing{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+    padding-top: 100px;
+    text-align: center;
+
+	
+}
+
+
+#line-pricing{
+	width:36px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pricing-card{
+	/* margin-left:140px;
+	margin-right: 140px; */
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+#card-1{
+	height:550px;
+	width:335px;
+	border:none;
+    margin-right: auto;
+    margin-left: auto;
+	background-color: white;
+	border-radius: 1px;
+	
+	
+}
+
+h5{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:15px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#doller{
+	font-size:20px;
+	
+}
+
+#num{
+	font-size:75px;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+#month{
+	font-size:17px;
+	color:gray;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+.h-1{
+	padding-left: 100px;
+}
+
+
+table{
+	padding-left: 120px;
+	padding-top: 90PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: 15px;
+	
+}
+
+
+tr,td{
+	
+	padding-top: 20px;
+	color:gray;
+}
+
+
+h4{
+	padding-left: 100px;
+	padding-top: 40px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color:#302e2e;
+}
+
+
+
+/******************START-SECTION-SIXTEEN**************************************************/
+
+.SECTION-SIXTEEN {
+	width:100%;
+  
+   
+}
+
+
+.sec-getintouch-1{
+	
+	height:600PX;
+    width:100%;
+	float:right;
+}
+
+
+
+#heading-getintouch{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 70px;
+	text-align: center;
+	
+}
+
+#line-getintouch{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-bottom:20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+.login{
+    padding-top: 50px;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+
+
+
+
+input{
+	width: 100%;
+	padding: 15px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+	color:black;
+}
+
+textarea{
+	width: 100%;
+	padding: 70px 20px;
+	margin: 8px 0PX;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+}
+
+
+button{
+	background-color: black;
+	color:white;
+	border:1px solid black;
+	height:28px;
+	width:200px;
+	font-size: 11px;
+}
+
+.sec-getintouch-2{
+	height:auto;
+	width:100%;
+
+	background-color:white; 
+}
+#sec-16-img{
+	height:auto;
+	width:100%;
+}
+
+/************************STRAT-SECTION-SEVENTEEN********************/
+.SECTION-SEVENTEEN{
+	height:600px;
+	width:100%;
+	background-color: #333131;
+}
+
+#img-footer{
+	height:80px;
+	width:80px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 60px;
+	
+}
+
+
+#line-footer{
+	width:190px;
+	border:2px solid #ffbb00;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:50px;
+	
+	
+}
+
+
+
+#l-footer{
+    margin-left:110px;
+    margin-right:110px;
+    list-style-type: none;
+    padding-top: 30px;
+   
+}
+
+
+.list-footer-2{
+	color:white;
+	padding-top: 10px;
+    padding-bottom: 0px;
+    color:#4c4d4f;
+   
+}
+
+#l-footer-add{
+	font-family: "Times New Roman", Times, serif;
+    list-style-type: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top:60px;
+    color:gray;
+   
+}
+
+#f-2{
+    float:left;
+   padding-left: 10px;
+   text-align: center;
+
+
+}
+
+.number{
+	text-align: center;
+	font-family:"Times New Roman", Times, serif;
+	font-size: 14px;
+    color:gray;
+    padding-top: 50px;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+.email{
+	text-align: center;
+	color:gray;
+	font-size: 14;
+	font-family:"Times New Roman", Times, serif;
+    padding-top: 10px; 
+  
+}
+
+
+/*********STRAT-SECTION-EIGHTEEN******************************************/
+.SECTION-EIGHTEEN{
+	border:0px solid red;
+	height:120px;
+	width:100%;
+	background-color: #251E1E ;	
+}
+
+.mytheam{
+	text-align: center;
+	color:gray ;
+	padding-top: 50px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
 }
    
     
@@ -1440,6 +2231,401 @@ a{
 	width:100%;
 }
 
+/********************************START-SECTION-TWELVE*********************************/
+
+.SECTION-TWELVE{
+	width:100%;
+    height:490px;
+   
+	
+}
+
+
+.list-number{
+	
+    text-decoration: none;
+    margin-right: 140px;
+    margin-left: 140px;
+
+	
+	
+}
+
+#ul-num{
+	
+	
+	list-style-type: none;
+    font-size:50px;
+    font-family:cursive;
+}
+
+
+#web{
+	font-size:15px;
+	font-family:Arial, Helvetica, sans-serif;
+    color:#6ad9f7;
+    margin-top: 10px;
+}
+
+/******************************START-SECTION-THIRTEEN************************************/
+.SECTION-THIRTEEN{
+	width:100%;
+	height:auto;
+	}
+
+#sec-13-img{
+    width:100%;
+	height:auto;
+}
+
+/*******************************START-SECTION-FOURTEEN********************************/
+.SECTION-FOURTEEN{
+	width:100%;
+	height:auto;
+	
+}
+
+#heading-ourteam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+    padding-top: 0px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+
+#line-ourteam{
+	width:38px;
+	border:2px solid #ffbb00;
+    margin-top:-20px;
+    margin-right: auto;
+    margin-left: auto;
+	
+}
+
+
+.sec-user{
+	
+	padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+
+
+#user-1{
+	height:300px;
+	width:380PX;
+	background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+
+
+#user-img{
+	height:auto;
+	width:100%;
+}
+
+#barry-1{
+    padding-left: 150px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color: gray;
+}
+
+
+/*********************START-SECTION-FIFTEEN************************************************/
+.SECTION-FIFTEEN{
+	width:100%;
+    /* height:910px; */
+    height: auto;
+
+	 background-color:#f0f0f0;  
+}
+
+#heading-pricing{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+    padding-top: 100px;
+    text-align: center;
+
+	
+}
+
+
+#line-pricing{
+	width:36px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pricing-card{
+	/* margin-left:140px;
+	margin-right: 140px; */
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+#card-1{
+	height:550px;
+	width:370px;
+	border:none;
+    margin-right: auto;
+    margin-left: auto;
+	background-color: white;
+	border-radius: 1px;
+	
+	
+}
+
+h5{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:15px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#doller{
+	font-size:20px;
+	
+}
+
+#num{
+	font-size:75px;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+#month{
+	font-size:17px;
+	color:gray;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+.h-1{
+	padding-left: 120px;
+}
+
+
+table{
+	padding-left: 125px;
+	padding-top: 90PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: 15px;
+	
+}
+
+
+tr,td{
+	
+	padding-top: 20px;
+	color:gray;
+}
+
+
+h4{
+	padding-left: 120px;
+	padding-top: 40px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color:#302e2e;
+}
+
+
+/******************START-SECTION-SIXTEEN**************************************************/
+
+.SECTION-SIXTEEN {
+	width:100%;
+	
+}
+
+
+.sec-getintouch-1{
+	
+	height:600PX;
+	width:100%;
+	float:right;
+
+}
+
+
+
+#heading-getintouch{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 70px;
+	text-align: center;
+	
+}
+
+#line-getintouch{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-bottom:20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+.login{
+    padding-top: 50px;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+
+
+
+
+input{
+	width: 100%;
+	padding: 15px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+	color:black;
+}
+
+textarea{
+	width: 100%;
+	padding: 70px 20px;
+	margin: 8px 0PX;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+}
+
+
+button{
+	background-color: black;
+	color:white;
+	border:1px solid black;
+	height:28px;
+	width:200px;
+	font-size: 11px;
+}
+
+.sec-getintouch-2{
+	height:auto;
+	width:100%;
+
+	background-color:white; 
+}
+#sec-16-img{
+	height:auto;
+	width:100%;
+}
+
+/************************STRAT-SECTION-SEVENTEEN********************/
+.SECTION-SEVENTEEN{
+	height:600px;
+	width:100%;
+	background-color: #333131;
+}
+
+#img-footer{
+	height:80px;
+	width:80px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 60px;
+	
+}
+
+
+#line-footer{
+	width:190px;
+	border:2px solid #ffbb00;
+	margin-left: auto;
+	margin-right: auto;
+    margin-top:50px;
+  
+	
+	
+}
+
+
+
+#l-footer{
+     margin-left:120px;
+    margin-right:120px; 
+    list-style-type: none;
+    padding-top: 30px;
+  
+   
+}
+
+
+.list-footer-2{
+	color:white;
+	padding-top: 90px;
+    padding-bottom: 0px;
+    color:#4c4d4f;
+   
+}
+
+#l-footer-add{
+	font-family: "Times New Roman", Times, serif;
+    list-style-type: none;
+     margin-left: 40px;
+    margin-right: 40px;
+    color:gray;
+   
+   
+}
+
+#f-2{
+    float:left;
+   padding-left: 10px;
+   text-align: center;
+
+
+}
+
+.number{
+	text-align: center;
+	font-family:"Times New Roman", Times, serif;
+	font-size: 14px;
+    color:gray;
+    padding-top: 50px;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+.email{
+	text-align: center;
+	color:gray;
+	font-size: 14;
+	font-family:"Times New Roman", Times, serif;
+	padding-top: 10px; 
+}
+
+
+/*********STRAT-SECTION-EIGHTEEN******************************************/
+.SECTION-EIGHTEEN{
+	height:120px;
+	width:100%;
+	background-color: #251E1E ;	
+}
+
+.mytheam{
+	text-align: center;
+	color:gray ;
+	padding-top: 50px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
 }
     
     
@@ -1476,20 +2662,20 @@ a{
         float:right;
         text-align: center;
         padding-bottom:10px;
-        display:none;
+      
         
 
        
     }
     
     #ol-about{
-        margin-right:30px;
+        margin-right:20px;
         list-style-type:none;
         float:right;
     }
     
     #li-about{
-        margin-right:30px;
+        margin-right:20px;
         list-style-type:none;
         float:left;
     }
@@ -1517,7 +2703,7 @@ a{
     /***********section about-us********************/
     .SECTION-THIRD {
         width:100%;
-        height:450px;
+        height:400px;
         background-color:#f0f0f0;
         margin:0;
         padding-top:0; 
@@ -1540,7 +2726,7 @@ a{
     #aboutus-line{
         width:38px;
         border:2px solid #ffbb00;
-        margin-left:71px;
+        margin-left:76px;
         margin-right:auto;
         margin-top:20px;
         margin-bottom:20px;
@@ -1559,14 +2745,14 @@ a{
         text-align: justify;
         padding-top: 150px;
         width:350px;
-        font-size:15px;
+        font-size:11px;
         color:gray;
         letter-spacing: 2px;
         line-height: 1.8;
         font-weight: 600px;
     }
 
-        /**************SECTION FOURTH***************************/
+ /**************SECTION FOURTH***************************/
         .SECTION-FOUR{
             width:100%;
             height:450px;
@@ -1578,36 +2764,35 @@ a{
         .sec-3{
           
             height:100%;
-            width:40%;
+            width:45%;
             margin:0;
             padding:0;
             float:left;
-
+           
             
         }
         
         #Experitise{
-            text-align:center;
+            
             font-family:Arial, Helvetica, sans-serif;
             font-size: 36px;
-            margin-left: auto;
-            margin-right: auto;
+            margin-left: 80px;
             padding-top:50px;
         }
         #experities-line{
             width:38px;
             border:2px solid #ffbb00;
             margin-top:-20px;
-            margin-left: 35px;
+            margin-left: 85px;
         }
         progress{
             height: .3em;
-            width: 75%;
+            width: 60%;
             border: none;
             border-radius: 5px;
             margin-top: 35px;
-            margin-left:30px;
-            margin-right:30px;
+            margin-left:80px;
+            margin-right:80px;
            
             
             
@@ -1616,21 +2801,22 @@ a{
             
             font-family:Arial, Helvetica, sans-serif;
             color:gray;
-            margin-left:30px;
-            margin-right:30px;
+            margin-left:80px;
+            margin-right:80px;
+            font-size:11px;
         }
         progress:after{
             content: attr(data-label);
             font-size: 0.8em;
             vertical-align: 0; 
-            padding-left: 170px;
+            padding-left: 150px;
             margin-left:30px;
             margin-right:30px;
         }
         .sec-4{
             
             height:100%;
-            width:60%;
+            width:55%;
             margin:0;
             padding:0;
             float:right;
@@ -1639,11 +2825,11 @@ a{
         
         #para-experities{
             font-family:Arial, Helvetica, sans-serif;
-            margin-left:50px;
-            padding-right:50px;
+            margin-left:20px;
+            padding-right:20px;
             text-align: justify;
             width:350px;
-            font-size:15px;
+            font-size:11px;
             color:gray;
             letter-spacing: 2px;
             line-height: 1.8;
@@ -1690,18 +2876,18 @@ a{
 }
 
 #google-plus{
-    height:40px;
-    width:40px;
+    height:25px;
+    width:25px;
     float:left;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left:5px;
+    padding-left:15px;
 }
 
 #heading-graphics{
     font-family:Arial, Helvetica, sans-serif;
     color:gray;
-    font-size: 20PX;
+    font-size: 15PX;
     padding-top:10px;
     padding-left:10px;
     float:left;
@@ -1714,7 +2900,7 @@ a{
     font-family:Arial, Helvetica, sans-serif;                                                  
     text-align: justify;
     justify-content: center;
-    font-size:14px;
+    font-size:11px;
     color:gray;
     letter-spacing: 1px;
     line-height: 1.4;
@@ -1752,15 +2938,10 @@ a{
     padding:0;
 } 
 
-/* .sec-letsmake{
-	       height:100%;
-            width:50%;
-            margin:0;
-            padding:0;
-            float:right;
-            background-color: #f0f0f0;
-   
-} */
+.sec-letsmake{
+    width:50%;
+    float:right;
+}
 
 
 #heading-letsmake{
@@ -1776,23 +2957,23 @@ a{
 #line-letsmake{
     width:38px;
     border:2px solid #ffbb00;
-    margin-top:-20px;
-    text-decoration-line: center;
+    margin-top:30px;
+    margin-left:50px;
 }
 
 
 #para-letsmake{
     font-family:Arial, Helvetica, sans-serif;
-    margin-left:20px;
-    padding-right:20px;
+    margin-left:80px;
+    padding-right:80px;
     text-align: justify;
-    width:343px;
-    font-size:15px;
+    width:260px;
+    font-size:11px;
     color:gray;
     letter-spacing: 2px;
     line-height: 1.5;
     font-weight: 400px;
-    padding-top: 0px;
+    padding-top: 20px;
     float:right;
   
 } 
@@ -1861,7 +3042,7 @@ a{
 a{
 	text-decoration: none;
 	color:gray;
-	font-size: 15px;
+	font-size: 11px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	padding-right: 14px;
@@ -1892,7 +3073,7 @@ a{
 /******************************START-SECTION-NINE*******************************************/
 .SECTION-NINE{
 	width:100%;
-	height:150px;
+	height:100px;
     background-color: #f0f0f0;
 
 
@@ -1900,14 +3081,14 @@ a{
 }
 
 #heading-viewmore{
-	font-size:25px;
+	font-size:18px;
 	font-family:Arial, Helvetica, sans-serif;
 	text-align:center;
 	color:#d4cfcd;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 60px;
-	padding-bottom: 60px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 	font-weight:100pX;
 }
 
@@ -1921,7 +3102,7 @@ a{
 	font-family:Arial, Helvetica, sans-serif;
 	color:gray;
     text-align: center;
-    font-size: 15px;
+    font-size: 11px;
 	letter-spacing: 2px;
 	line-height: 1.8;
 	font-weight: 600px;
@@ -1938,7 +3119,8 @@ a{
 	font-family:Arial, Helvetica, sans-serif;
 	color:gray;
      margin-top: -30px;
-	width:100%;
+    width:100%;
+    font-size: 15px;
 	
 	
 }
@@ -1955,7 +3137,500 @@ a{
 	width:100%;
 }
 
+/********************************START-SECTION-TWELVE*********************************/
+
+
+.SECTION-TWELVE{
+	width:100%;
+    height:300px;
+	
 }
+
+
+.list-number{
+	float:left;
+	text-decoration: none;
+	margin-top: 70px;
+    text-align:center;
+    margin-left: 60px;
+	
+}
+
+#ul-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:35px;
+	padding-left:0px;
+	font-family:cursive;
+}
+
+#li-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:35px;
+	padding-left:85px;
+}
+
+#web{
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#6ad9f7;
+}
+
+
+/******************************START-SECTION-THIRTEEN************************************/
+.SECTION-THIRTEEN{
+	width:100%;
+	height:auto;
+	}
+
+#sec-13-img{
+    width:100%;
+	height:auto;
+}
+
+
+
+/*******************************START-SECTION-FOURTEEN********************************/
+.SECTION-FOURTEEN{
+	width:100%;
+	height:700px;
+
+}
+
+#heading-ourteam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	padding-left: 85PX;
+}
+
+
+#line-ourteam{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+
+.sec-user{
+
+	padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 90px;
+    margin-right:90px;
+}
+
+
+#user-1{
+	height:190px;
+	width:190PX;
+	float:left;
+   
+}
+
+
+
+#user-img{
+	height:100%;
+	width:100%;
+}
+
+#barry-1{
+	padding-left: 55PX;
+	padding-right: 55PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	color: gray;
+}
+
+
+/*********************START-SECTION-FIFTEEN************************************************/
+.SECTION-FIFTEEN{
+	width:100%;
+	height:810px;
+	border:0px solid black;
+	background-color:#f0f0f0; 
+}
+
+#heading-pricing{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	padding-left: 80PX;
+	
+}
+
+
+#line-pricing{
+	width:36px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+
+.pricing-card{
+	margin-left:90px;
+	margin-right: 90px;
+	padding-top: 90px;
+	padding-bottom: 50px;
+}
+
+
+#card-1{
+	height:400px;
+	width:180px;
+	border:none;
+	float:left;
+	margin-left:10px;
+	border-radius: 1px;
+	background-color: white;
+	
+}
+
+h5{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:11px;
+	padding-left: 20px;
+}
+
+#doller{
+	font-size:12px;
+	
+}
+
+#num{
+	font-size:40px;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+#month{
+	font-size:12px;
+	color:gray;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+.h-1{
+	padding-left: 60px;
+}
+
+
+table{
+	padding-left: 50px;
+	padding-top: 50PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	
+}
+
+
+tr,td{
+	
+	padding-top: 20px;
+	color:gray;
+}
+
+
+h4{
+	padding-left: 40px;
+	padding-top: 35px;
+	font-family:Arial, Helvetica, sans-serif; 
+    color:#302e2e;
+    font-size: 13px;
+}
+
+
+/******************START-SECTION-SIXTEEN**************************************************/
+
+.SECTION-SIXTEEN {
+	width:100%;
+	height:600px;
+}
+
+
+.sec-getintouch-1{
+	
+	height:100%;
+	width:55%;
+	float:left;
+
+}
+
+
+
+#heading-getintouch{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 70px;
+    margin-left: 80px;
+	margin-right: 80px;
+}
+
+#line-getintouch{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-bottom:20px;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+
+
+
+
+.login{
+    padding-top: 50px;
+    margin-left:80px;
+   
+}
+
+
+
+
+
+input{
+	width: 270px;
+	padding: 15px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+	color:black;
+}
+
+textarea{
+	width: 270px;
+	padding: 70px 20px;
+	margin: 8px 0PX;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+}
+
+
+button{
+	background-color: black;
+	color:white;
+	border:1px solid black;
+	height:28px;
+	width:200px;
+	font-size: 11px;
+}
+
+.sec-getintouch-2{
+	height:100%;
+	width:45%;
+    float:right;
+	background-color:white; 
+}
+#sec-16-img{
+	height:auto;
+	width:100%;
+}
+
+
+
+/******************START-SECTION-SIXTEEN**************************************************/
+
+.SECTION-SIXTEEN {
+    width:100%;
+    height:700px;
+	
+}
+
+
+.sec-getintouch-1{
+	
+	height:100%;
+	width:55%;
+	float:left;
+
+}
+
+
+
+#heading-getintouch{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 70px;
+	
+	
+}
+
+#line-getintouch{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+    margin-bottom:20px;
+   
+
+}
+
+
+
+
+
+.login{
+    padding-top: 50px;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+
+
+
+
+input{
+	width: 200px;
+	padding: 15px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+    color:black;
+    margin-left:80px;
+}
+
+textarea{
+	width: 200px;
+	padding: 70px 20px;
+	margin: 8px 0PX;
+	box-sizing: border-box;
+	border: none;
+    border-bottom: 2px solid black;
+    margin-left:70px;
+}
+
+
+button{
+	background-color: black;
+	color:white;
+	border:1px solid black;
+	height:28px;
+	width:100px;
+    font-size: 9px;
+    margin-left:70px;
+}
+
+.sec-getintouch-2{
+	height:100%;
+	width:45%;
+    float:right;
+	background-color:white; 
+}
+#sec-16-img{
+	height:auto;
+	width:100%;
+}
+
+/************************STRAT-SECTION-SEVENTEEN********************/
+.SECTION-SEVENTEEN{
+	height:450px;
+	width:100%;
+	background-color: #333131;
+}
+
+#img-footer{
+	height:80px;
+	width:80px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 60px;
+	
+}
+
+
+#line-footer{
+	width:190px;
+	border:2px solid #ffbb00;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:50px;
+	
+	
+}
+
+.list-footer-1{
+	
+	float:left;
+	margin-top:90px; 
+    padding-left:170px; 
+  
+	
+	
+}
+
+#l-footer,li{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+    float:left;
+    padding-left: 10px;
+	
+	
+}
+
+
+.list-footer-2{
+	color:white;
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	/* margin-left: 0px; */
+	color:#4c4d4f;
+	
+}
+
+#l-footer-add{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+    float:left; 
+    padding-left: 270px; 
+    color:gray;   
+}
+
+.number{
+	text-align: center;
+	font-family:"Times New Roman", Times, serif;
+	font-size: 14px;
+    color:gray; 
+    padding-top: 30px;
+}
+
+.email{
+	text-align: center;
+	color:gray;
+	font-size: 14;
+	font-family:"Times New Roman", Times, serif;
+	padding-top: 10px; 
+}
+
+
+/*********STRAT-SECTION-EIGHTEEN******************************************/
+.SECTION-EIGHTEEN{
+	height:120px;
+	width:100%;
+	background-color: #251E1E ;	
+}
+
+.mytheam{
+	text-align: center;
+	color:gray ;
+	padding-top: 50px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+}
+
+
+
+
 
 
 
@@ -2049,7 +3724,7 @@ a{
     #aboutus-line{
         width:38px;
         border:2px solid #ffbb00;
-        margin-left:120px;
+        margin-left:125px;
         margin-right:auto;
         margin-top:20px;
         margin-bottom:20px;
@@ -2068,7 +3743,7 @@ a{
         text-align: justify;
         padding-top: 150px;
         width:450px;
-        font-size:15px;
+        font-size:13px;
         color:gray;
         letter-spacing: 2px;
         line-height: 1.8;
@@ -2086,36 +3761,36 @@ a{
             .sec-3{
               
                 height:100%;
-                width:40%;
+                width:45%;
                 margin:0;
                 padding:0;
                 float:left;
+              
     
                 
             }
             
             #Experitise{
-                text-align:center;
+               
                 font-family:Arial, Helvetica, sans-serif;
                 font-size: 36px;
-                margin-left: auto;
-                margin-right: auto;
+                margin-left: 120px;
                 padding-top:90px;
             }
             #experities-line{
                 width:38px;
                 border:2px solid #ffbb00;
                 margin-top:-20px;
-                margin-left: 88px;
+                margin-left: 120px;
             }
             progress{
                 height: .3em;
-                width: 85%;
+                width: 60%;
                 border: none;
                 border-radius: 5px;
                 margin-top: 35px;
-                margin-left:30px;
-                margin-right:30px;
+                margin-left:123px;
+                margin-right:123px;
                
                 
                 
@@ -2124,21 +3799,21 @@ a{
                 
                 font-family:Arial, Helvetica, sans-serif;
                 color:gray;
-                margin-left:30px;
-                margin-right:30px;
+                margin-left:123px;
+                margin-right:123px;
             }
             progress:after{
                 content: attr(data-label);
                 font-size: 0.8em;
                 vertical-align: 0; 
-                padding-left: 240px;
+                padding-left: 200px;
                 margin-left:30px;
                 margin-right:30px;
             }
             .sec-4{
                 
                 height:100%;
-                width:60%;
+                width:55%;
                 margin:0;
                 padding:0;
                 float:right;
@@ -2147,11 +3822,11 @@ a{
             
             #para-experities{
                 font-family:Arial, Helvetica, sans-serif;
-                margin-left:90px;
-                padding-right:90px;
+                margin-left:25px;
+                padding-right:25px;
                 text-align: justify;
                 width:450px;
-                font-size:15px;
+                font-size:13px;
                 color:gray;
                 letter-spacing: 2px;
                 line-height: 1.8;
@@ -2196,18 +3871,18 @@ a{
 }
 
 #google-plus{
-    height:40px;
-    width:40px;
+    height:30px;
+    width:30px;
     float:left;
     padding-top: 50px;
     padding-bottom: 50px;
-    padding-left:20px;
+    padding-left:25px;
 }
 
 #heading-graphics{
     font-family:Arial, Helvetica, sans-serif;
     color:gray;
-    font-size: 20PX;
+    font-size: 16PX;
     padding-top:40px;
     padding-left:20px;
     float:left;
@@ -2220,7 +3895,7 @@ a{
     font-family:Arial, Helvetica, sans-serif;                                                  
     text-align: justify;
     justify-content: center;
-    font-size:14px;
+    font-size:13px;
     color:gray;
     letter-spacing: 1px;
     line-height: 1.4;
@@ -2256,32 +3931,34 @@ a{
     padding:0;
 } 
 
-
+.sec-letsmake{
+    width:50%;
+    float:right;
+}
 #heading-letsmake{
-    text-align:center;
+   
     font-family:Arial, Helvetica, sans-serif;
     font-size: 36px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top:80px;
+    padding-top:90px;
+    margin-left: 50px;
 	
 }
 
 #line-letsmake{
     width:38px;
     border:2px solid #ffbb00;
-    margin-top:-20px;
-    text-decoration-line: center;
+    margin-top:30px;
+    margin-left: 50px;
+   
 }
-
 
 #para-letsmake{
     font-family:Arial, Helvetica, sans-serif;
     margin-left:0px;
-    padding-right:50px;
+    padding-right:90px;
     text-align: justify;
-    width:400px;
-    font-size:15px;
+    width:370px;
+    font-size:13px;
     color:gray;
     letter-spacing: 2px;
     line-height: 1.8;
@@ -2312,7 +3989,7 @@ a{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	padding-top: 80px;
-	margin-right:40px;
+	margin-right:10px;
 	text-align:center;
 	
 }
@@ -2320,8 +3997,8 @@ a{
 	width:38px;
 	border:2px solid #ffbb00;
 	margin-top:-20px;
-	margin-left:115px;
-	margin-right: 115px;
+	margin-left:126px;
+	margin-right: 130px;
 }
 
 
@@ -2358,7 +4035,7 @@ a{
 a{
 	text-decoration: none;
 	color:gray;
-	font-size: 15px;
+	font-size: 13px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	padding-right: 25px;
@@ -2388,7 +4065,7 @@ a{
 /**************************************START-SECTION-NINE***************************************/
 .SECTION-NINE{
 	width:100%;
-	height:150px;
+	height:130px;
     background-color: #f0f0f0;
 
 
@@ -2396,14 +4073,14 @@ a{
 }
 
 #heading-viewmore{
-	font-size:25px;
+	font-size:20px;
 	font-family:Arial, Helvetica, sans-serif;
 	text-align:center;
 	color:#d4cfcd;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 60px;
-	padding-bottom: 60px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	font-weight:100pX;
 }
 
@@ -2418,15 +4095,14 @@ a{
 	font-family:Arial, Helvetica, sans-serif;
 	color:gray;
     text-align: center;
-    font-size:15px;
+    font-size:13px;
 	letter-spacing: 2px;
 	line-height: 1.8;
 	font-weight: 600px;
-	
 	justify-content: center;
 	margin-left: 190px;
 	margin-right: 190px;
-	padding-top: 70px;
+	padding-top: 100px;
 	padding-bottom: 70px;
 }
 
@@ -2435,7 +4111,8 @@ a{
 	font-family:Arial, Helvetica, sans-serif;
 	color:gray;
      margin-top: -30px;
-	width:100%;
+    width:100%;
+    font-size: 18px;
 	
 	
 }
@@ -2449,6 +4126,402 @@ a{
 #sec-11-img{
 	height:auto;
 	width:100%;
+}
+
+/********************************START-SECTION-TWELVE*********************************/
+
+
+.SECTION-TWELVE{
+	width:100%;
+    height:300px;
+   
+	
+}
+
+
+.list-number{
+	float:left;
+	text-decoration: none;
+	margin-top: 50px;
+    text-align:center;
+  
+	
+}
+
+#ul-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:40px;
+	padding-left:0px;
+	font-family:cursive;
+}
+
+#li-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:40px;
+	padding-left:150px;
+}
+
+#web{
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#6ad9f7;
+}
+
+/******************************START-SECTION-THIRTEEN************************************/
+.SECTION-THIRTEEN{
+	width:100%;
+	height:auto;
+	}
+
+#sec-13-img{
+    width:100%;
+	height:auto;
+}
+
+
+
+/*******************************START-SECTION-FOURTEEN********************************/
+.SECTION-FOURTEEN{
+	width:100%;
+	height:600px;
+
+}
+
+#heading-ourteam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	padding-left: 130PX;
+}
+
+
+#line-ourteam{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 137px;
+	margin-right: 137px;
+}
+
+
+.sec-user{
+
+	padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 130px;
+}
+
+
+#user-1{
+	height:240px;
+	width:240PX;
+	float:left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+
+#user-img{
+	height:100%;
+	width:100%;
+}
+
+#barry-1{
+	padding-left: 80PX;
+	padding-right: 80PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	color: gray;
+}
+
+
+/*********************START-SECTION-FIFTEEN************************************************/
+.SECTION-FIFTEEN{
+	width:100%;
+	height:810px;
+	border:0px solid black;
+	background-color:#f0f0f0; 
+}
+
+#heading-pricing{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	padding-left: 100PX;
+	
+}
+
+
+#line-pricing{
+	width:36px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+
+.pricing-card{
+	margin-left:100px;
+	margin-right: 100px;
+	padding-top: 90px;
+	padding-bottom: 50px;
+}
+
+
+#card-1{
+	height:460px;
+	width:260px;
+	border:none;
+	float:left;
+	margin-left:10px;
+	border-radius: 1px;
+	background-color: white;
+	
+}
+
+h5{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:15px;
+	padding-left: 20px;
+}
+
+#doller{
+	font-size:15px;
+	
+}
+
+#num{
+	font-size:50px;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+#month{
+	font-size:17px;
+	color:gray;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+.h-1{
+	padding-left: 80px;
+}
+
+
+table{
+	padding-left: 80px;
+	padding-top: 50PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: 15px;
+	
+}
+
+
+tr,td{
+	
+	padding-top: 20px;
+	color:gray;
+}
+
+
+h4{
+	padding-left: 60px;
+	padding-top: 25px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color:#302e2e;
+}
+
+
+/******************START-SECTION-SIXTEEN**************************************************/
+
+.SECTION-SIXTEEN {
+	width:100%;
+	height:700px;
+}
+
+
+.sec-getintouch-1{
+	
+	height:100%;
+	width:55%;
+	float:left;
+	
+}
+
+
+
+#heading-getintouch{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 70px;
+    margin-left: 100px;
+	margin-right: 100px;
+}
+
+#line-getintouch{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-bottom:20px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+
+
+
+
+.login{
+    padding-top: 50px;
+    margin-left:100px;
+   
+}
+
+
+
+
+
+input{
+	width: 300px;
+	padding: 15px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+	color:black;
+}
+
+textarea{
+	width: 300px;
+	padding: 70px 20px;
+	margin: 8px 0PX;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+}
+
+
+button{
+	background-color: black;
+	color:white;
+	border:1px solid black;
+	height:28px;
+	width:200px;
+	font-size: 11px;
+}
+
+.sec-getintouch-2{
+	height:100%;
+	width:45%;
+    float:right;
+	background-color:white; 
+}
+#sec-16-img{
+	height:auto;
+	width:100%;
+}
+
+
+
+/************************STRAT-SECTION-SEVENTEEN********************/
+.SECTION-SEVENTEEN{
+	height:550px;
+	width:100%;
+	background-color: #333131;
+}
+
+#img-footer{
+	height:80px;
+	width:80px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 60px;
+	
+}
+
+
+#line-footer{
+	width:190px;
+	border:2px solid #ffbb00;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:80px;
+	
+	
+}
+
+.list-footer-1{
+	
+	float:left;
+	margin-top:140px; 
+    padding-left:230px; 
+  
+  
+	
+	
+}
+
+#l-footer,li{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+    float:left;
+    color:gray;
+    padding-left: 10px;
+	
+	
+}
+
+
+.list-footer-2{
+	color:white;
+	text-align: center;
+	padding-top: 90px;
+	padding-bottom: 90px;
+	/* margin-left: 0px; */
+	color:#4c4d4f;
+	
+}
+
+#l-footer-add{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+    float:left; 
+    padding-left: 400px;    
+}
+
+.number{
+	text-align: center;
+	font-family:"Times New Roman", Times, serif;
+	font-size: 14px;
+    color:gray; 
+    padding-top: 60px;
+}
+
+.email{
+	text-align: center;
+	color:gray;
+	font-size: 14;
+	font-family:"Times New Roman", Times, serif;
+	padding-top: 20px; 
+}
+
+
+/*********STRAT-SECTION-EIGHTEEN******************************************/
+.SECTION-EIGHTEEN{
+	height:120px;
+	width:100%;
+	background-color: #251E1E ;	
+}
+
+.mytheam{
+	text-align: center;
+	color:gray ;
+	padding-top: 50px;
+	font-family:Arial, Helvetica, sans-serif;
 }
 
 }
@@ -2542,7 +4615,7 @@ a{
     #aboutus-line{
         width:38px;
         border:2px solid #ffbb00;
-        margin-left:206px;
+        margin-left:210px;
         margin-right:auto;
         margin-top:20px;
         margin-bottom:20px;
@@ -2571,19 +4644,21 @@ a{
 /**************SECTION FOURTH***************************/
             .SECTION-FOUR{
                 width:100%;
-                height:400px;
+                height:500px;
                 margin:0;
                 padding:0;
+              
                 
             }
             
             .sec-3{
               
                 height:100%;
-                width:40%;
+                width:45%;
                 margin:0;
                 padding:0;
                 float:left;
+              
     
                 
             }
@@ -2592,34 +4667,32 @@ a{
                 text-align:center;
                 font-family:Arial, Helvetica, sans-serif;
                 font-size: 36px;
-                margin-left: auto;
-                margin-right: auto;
-                padding-top:50px;
+                padding-top:100px;
             }
             #experities-line{
                 width:38px;
                 border:2px solid #ffbb00;
                 margin-top:-20px;
-             margin-left: 169px;
+             margin-left: 205px;
                
                 
             }
             progress{
                 height: .3em;
-                width: 75%;
+                width: 60%;
                 border: none;
                 border-radius: 5px;
                 margin-top: 35px;
-                margin-left:30px;
-                margin-right:30px;
+                margin-left:205px;
+                margin-right:205px;
                }
 
             small{
                 
                 font-family:Arial, Helvetica, sans-serif;
                 color:gray;
-                margin-left:30px;
-                margin-right:30px;
+                margin-left:205px;
+                margin-right:205px;
             }
             progress:after{
                 content: attr(data-label);
@@ -2632,7 +4705,7 @@ a{
             .sec-4{
                 
                 height:100%;
-                width:60%;
+                width:55%;
                 margin:0;
                 padding:0;
                 float:right;
@@ -2641,8 +4714,8 @@ a{
             
             #para-experities{
                 font-family:Arial, Helvetica, sans-serif;
-                margin-left:140px;
-                padding-right:140px;
+                margin-left:60px;
+                padding-right:60px;
                 text-align: justify;
                 width:600px;
                 font-size:15px;
@@ -2650,7 +4723,7 @@ a{
                 letter-spacing: 2px;
                 line-height: 1.8;
                 font-weight: 400px;
-                padding-top: 155px;
+                padding-top: 200px;
                 
             }
 
@@ -2715,7 +4788,7 @@ a{
     font-family:Arial, Helvetica, sans-serif;                                                  
     text-align: justify;
     justify-content: center;
-    font-size:14px;
+    font-size:13px;
     color:gray;
     letter-spacing: 1px;
     line-height: 1.4;
@@ -2752,13 +4825,20 @@ a{
     padding:0;
 } 
 
+
+.sec-letsmake{
+    width:50%;
+    float:right;
+
+}
+
+
 #heading-letsmake{
-    text-align:center;
+   
     font-family:Arial, Helvetica, sans-serif;
     font-size: 36px;
-    margin-left: auto;
-    margin-right: auto;
     padding-top:160px;
+    margin-left: 100px;
 	
 }
 
@@ -2766,14 +4846,14 @@ a{
     width:38px;
     border:2px solid #ffbb00;
     margin-top:70px;
-    text-decoration-line: center;
+   margin-left: 100px;
 }
 
 
 #para-letsmake{
     font-family:Arial, Helvetica, sans-serif;
     margin-left:50px;
-    padding-right:100px;
+    padding-right:120px;
     text-align: justify;
     width:500px;
     font-size:15px;
@@ -2853,7 +4933,7 @@ a{
 a{
 	text-decoration: none;
 	color:gray;
-	font-size: 18px;
+	font-size: 15px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	padding-right: 25px;
@@ -2891,7 +4971,7 @@ a{
 }
 
 #heading-viewmore{
-	font-size:35px;
+	font-size:26px;
 	font-family:Arial, Helvetica, sans-serif;
 	text-align:center;
 	color:#d4cfcd;
@@ -2916,12 +4996,12 @@ a{
 	letter-spacing: 2px;
 	line-height: 1.8;
 	font-weight: 600px;
-	font-size:18px;
+	font-size:15px;
 	justify-content: center;
 	margin-left: 290px;
 	margin-right: 290px;
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 150px;
+	padding-bottom: 150px;
 }
 
 #barry-allen{
@@ -2946,6 +5026,401 @@ a{
 	width:100%;
 }
 
+/********************************START-SECTION-TWELVE*********************************/
+
+
+.SECTION-TWELVE{
+	width:100%;
+    height:350px;
+   
+	
+}
+
+
+.list-number{
+	float:left;
+	text-decoration: none;
+	margin-top: 50px;
+	text-align:center;
+	
+}
+
+#ul-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:50px;
+	padding-left:0px;
+	font-family:cursive;
+}
+
+#li-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:60px;
+	padding-left:220px;
+}
+
+#web{
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#6ad9f7;
+}
+
+/******************************START-SECTION-THIRTEEN************************************/
+.SECTION-THIRTEEN{
+	width:100%;
+	height:auto;
+	}
+
+#sec-13-img{
+    width:100%;
+	height:auto;
+}
+
+
+
+/*******************************START-SECTION-FOURTEEN********************************/
+.SECTION-FOURTEEN{
+	width:100%;
+	height:700px;
+
+}
+
+#heading-ourteam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	padding-left: 176PX;
+}
+
+
+#line-ourteam{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 180px;
+	margin-right: 180px;
+}
+
+
+.sec-user{
+
+	padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 176px;
+}
+
+
+#user-1{
+	height:370px;
+	width:350PX;
+	float:left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+
+#user-img{
+	height:100%;
+	width:100%;
+}
+
+#barry-1{
+	padding-left: 130pX;
+	padding-right: 130PX;
+	font-family:Arial, Helvetica, sans-serif; 
+    color: gray;
+    font-size: 18px;
+}
+
+/*********************START-SECTION-FIFTEEN************************************************/
+.SECTION-FIFTEEN{
+	width:100%;
+	height:900px;
+	border:0px solid black;
+	background-color:#f0f0f0; 
+}
+
+#heading-pricing{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+	padding-left: 200PX;
+	
+}
+
+
+#line-pricing{
+	width:36px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+
+.pricing-card{
+	margin-left:200px;
+	margin-right: 200px;
+	padding-top: 90px;
+	padding-bottom: 50px;
+}
+
+
+#card-1{
+	height:550px;
+	width:300px;
+	border:none;
+	float:left;
+	margin-left:30px;
+	border-radius: 1px;
+	background-color: white;
+	
+}
+
+h5{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:15px;
+	padding-left: 20px;
+}
+
+#doller{
+	font-size:15px;
+	
+}
+
+#num{
+	font-size:50px;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+#month{
+	font-size:17px;
+	color:gray;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+.h-1{
+	padding-left: 80px;
+}
+
+
+table{
+	padding-left: 100px;
+	padding-top: 50PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: 15px;
+	
+}
+
+
+tr,td{
+	
+	padding-top: 20px;
+	color:gray;
+}
+
+
+h4{
+	padding-left: 80px;
+	padding-top: 75px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color:#302e2e;
+}
+
+
+/******************START-SECTION-SIXTEEN**************************************************/
+
+.SECTION-SIXTEEN {
+	width:100%;
+	height:700px;
+}
+
+
+.sec-getintouch-1{
+	
+	height:100%;
+	width:55%;
+	float:left;
+ 
+}
+
+
+
+#heading-getintouch{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	padding-top: 100px;
+    margin-left: 200px;
+	margin-right: 200px;
+}
+
+#line-getintouch{
+	width:38px;
+	border:2px solid #ffbb00;
+	margin-top:-20px;
+	margin-bottom:20px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+
+
+
+
+.login{
+    padding-top: 50px;
+    margin-left:200px;
+   
+}
+
+
+
+
+
+input{
+	width: 390px;
+	padding: 15px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+	color:black;
+}
+
+textarea{
+	width: 390px;
+	padding: 70px 20px;
+	margin: 8px 0PX;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+}
+
+
+button{
+	background-color: black;
+	color:white;
+	border:1px solid black;
+	height:28px;
+	width:200px;
+	font-size: 11px;
+}
+
+.sec-getintouch-2{
+	height:100%;
+	width:45%;
+    float:right;
+	background-color:white; 
+}
+#sec-16-img{
+	height:auto;
+	width:100%;
+}
+
+
+/************************STRAT-SECTION-SEVENTEEN********************/
+.SECTION-SEVENTEEN{
+	
+	height:650px;
+	width:100%;
+	background-color: #333131;
+}
+
+#img-footer{
+	height:80px;
+	width:80px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 60px;
+	
+}
+
+
+#line-footer{
+	width:190px;
+	border:2px solid #ffbb00;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:80px;
+	
+	
+}
+
+.list-footer-1{
+	
+	float:left;
+	margin-top:200px; 
+    padding-left:430px; 
+  
+    
+  
+	
+	
+}
+
+#l-footer,li{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+    float:left;
+    color:gray;
+    padding-left: 10px;
+	
+	
+}
+
+
+.list-footer-2{
+	color:white;
+	text-align: center;
+	padding-top: 90px;
+	padding-bottom: 90px;
+	/* margin-left: 0px; */
+	color:#4c4d4f;
+	
+}
+
+#l-footer-add{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+    float:left; 
+    padding-left: 600px;    
+}
+
+.number{
+	text-align: center;
+	font-family:"Times New Roman", Times, serif;
+	font-size: 14px;
+    color:gray; 
+    padding-top: 120px;
+}
+
+.email{
+	text-align: center;
+	color:gray;
+	font-size: 14;
+	font-family:"Times New Roman", Times, serif;
+	padding-top: 20px; 
+}
+
+
+/*********STRAT-SECTION-EIGHTEEN******************************************/
+.SECTION-EIGHTEEN{
+	height:120px;
+	width:100%;
+	background-color: #251E1E ;	
+}
+
+.mytheam{
+	text-align: center;
+	color:gray ;
+	padding-top: 50px;
+	font-family:Arial, Helvetica, sans-serif;
+}
 }
 
 
@@ -3098,7 +5573,7 @@ a{
     /***********section about-us********************/
     .SECTION-THIRD {
         width:100%;
-        height:650px;
+        height:750px;
         background-color:#f0f0f0;
         margin:0;
         padding-top:0; 
@@ -3139,7 +5614,7 @@ a{
         margin-right:auto;
         text-align: justify;
         padding-top: 320px;
-        width:1200px;
+        width:1100px;
         font-size:20px;
         color:gray;
         letter-spacing: 2px;
@@ -3150,35 +5625,35 @@ a{
     /**************SECTION FOURTH***************************/
     .SECTION-FOUR{
         width:100%;
-        height:500px;
+        height:850px;
         margin:0;
         padding:0;
+       
         
     }
    
         .sec-3{
                 height:100%;
-                width:40%;
+                width:45%;
                 margin:0;
                 padding:0;
                 float:left;
+               
     
                 
             }
             
             #Experitise{
-                text-align:center;
                 font-family:Arial, Helvetica, sans-serif;
                 font-size: 46px;
-                margin-left: auto;
-                margin-right: auto;
-                padding-top:150px;
+                margin-left: 393px;
+                padding-top:250px;
             }
             #experities-line{
                 width:38px;
                 border:3px solid #ffbb00;
                 margin-top:-20px;
-             margin-left: 360px;
+             margin-left: 400px;
                
                 
             }
@@ -3196,32 +5671,33 @@ a{
                 
                 font-family:Arial, Helvetica, sans-serif;
                 color:gray;
-                margin-left:100px;
-                margin-right:100px;
+                margin-left:400px;
+                margin-right:400px;
+                font-size: 18px;
             }
             progress:after{
                 content: attr(data-label);
                 font-size: 0.8em;
                 vertical-align: 0; 
-                padding-left: 590px;
+                padding-left: 450px;
                 margin-left:30px;
                 margin-right:30px;
             }
     progress{
         height: .3em;
-        width: 70%;
+        width: 50%;
         border: none;
         border-radius: 5px;
         margin-top: 40px;
-        margin-left:100px;
-        margin-right:100px;
+        margin-left:400px;
+        margin-right:400px;
        }
 
    
     .sec-4{
         
         height:100%;
-        width:60%;
+        width:55%;
         margin:0;
         padding:0;
         float:right;
@@ -3233,13 +5709,13 @@ a{
         margin-left:150px;
         padding-right:150px;
         text-align: justify;
-        width:1200px;
+        width:1100px;
         font-size:20px;
         color:gray;
         letter-spacing: 2px;
         line-height: 1.8;
         font-weight: 400px;
-        padding-top: 270px;
+        padding-top: 370px;
         
     }
 
@@ -3280,18 +5756,18 @@ a{
 }
 
 #google-plus{
-    height:100px;
-    width:100px;
+    height:90px;
+    width:90px;
     float:left;
     padding-top: 60px;
     padding-bottom: 50px;
-    padding-left:45px;
+    padding-left:85px;
 }
 
 #heading-graphics{
     font-family:Arial, Helvetica, sans-serif;
     color:gray;
-    font-size: 40PX;
+    font-size: 30PX;
     padding-top:50px;
     padding-left:50px;
     float:left;
@@ -3309,13 +5785,13 @@ a{
     letter-spacing: 2px;
     line-height: 1.8;
     font-weight: 600px;
-    width:550px;
+    width:450px;
     padding-left: 60px;
    
     
 } 
 
-/***********************************************************Sixth section**************************************************/
+/************************Sixth section**************************************************/
 .SECTION-SIX{
     width:100%;
     height:1328px;
@@ -3340,13 +5816,20 @@ a{
     padding:0;
 } 
 
+
+.sec-letsmake{
+    width:50%;
+    float:right;
+
+}
+
+
 #heading-letsmake{
-    text-align:center;
+   
     font-family:Arial, Helvetica, sans-serif;
     font-size: 46px;
-    margin-left: auto;
-    margin-right: auto;
     padding-top:300px;
+    margin-left: 170px;
 	
 }
 
@@ -3354,14 +5837,14 @@ a{
     width:38px;
     border:3px solid #ffbb00;
     margin-top:200px;
-    text-decoration-line: center;
+    margin-left: 170px;
 }
 
 
 #para-letsmake{
     font-family:Arial, Helvetica, sans-serif;
     margin-left:0px;
-    padding-right:150px;
+    padding-right:200px;
     text-align: justify;
     width:900px;
     font-size:20px;
@@ -3533,6 +6016,413 @@ a{
 #sec-11-img{
 	height:auto;
 	width:100%;
+}
+
+/********************************START-SECTION-TWELVE*********************************/
+
+
+.SECTION-TWELVE{
+	width:100%;
+    height:450px;
+    
+	
+}
+
+
+.list-number{
+	float:left;
+	text-decoration: none;
+	margin-top: 50px;
+	text-align:center;
+	
+}
+
+#ul-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:80px;
+    padding-left:200px;
+    padding-right:200px ;
+	font-family:cursive;
+}
+
+#li-num{
+	float:left;
+	text-align:center;
+	list-style-type: none;
+	font-size:100px;
+	padding-left:300px;
+}
+
+#web{
+	font-size:18px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#0e5beb;
+}
+
+/******************************START-SECTION-THIRTEEN************************************/
+.SECTION-THIRTEEN{
+	width:100%;
+	height:auto;
+	}
+
+#sec-13-img{
+    width:100%;
+	height:auto;
+}
+
+
+/*******************************START-SECTION-FOURTEEN********************************/
+.SECTION-FOURTEEN{
+	width:100%;
+    height:1250px;
+   
+
+}
+
+#heading-ourteam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 46px;
+	padding-top: 150px;
+	padding-left: 400PX;
+}
+
+
+#line-ourteam{
+	width:38px;
+	border:3px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 409px;
+	margin-right: 409px;
+}
+
+
+.sec-user{
+  
+
+	padding-top: 150px;
+    padding-bottom: 150px;
+    margin-left: 390px;
+    margin-right: 390px;
+}
+
+
+#user-1{
+	height:590px;
+	width:590PX;
+	float:left;
+}
+
+
+
+#user-img{
+	height:100%;
+	width:100%;
+}
+
+#barry-1{
+	padding-left: 220PX;
+	padding-right: 220PX;
+	font-family:Arial, Helvetica, sans-serif; 
+    color: gray;
+    font-size: 20px;
+}
+
+/*********************START-SECTION-FIFTEEN************************************************/
+.SECTION-FIFTEEN{
+	width:100%;
+	height:1400px;
+	border:0px solid black;
+	background-color:#f0f0f0; 
+}
+
+#heading-pricing{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 46px;
+	padding-top: 200px;
+	padding-left: 400PX;
+	
+}
+
+
+#line-pricing{
+	width:36px;
+	border:3px solid #ffbb00;
+	margin-top:-20px;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+
+.pricing-card{
+	margin-left:400px;
+	margin-right: 400px;
+	padding-top: 90px;
+	padding-bottom: 50px;
+}
+
+
+#card-1{
+	height:850px;
+	width:500px;
+	border:none;
+	float:left;
+	margin-left:50px;
+	border-radius: 1px;
+	background-color: white;
+	
+}
+
+h5{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:18px;
+	padding-left: 20px;
+}
+
+#doller{
+	font-size:40px;
+	
+}
+
+#num{
+	font-size:100px;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+#month{
+	font-size:18px;
+	color:gray;
+	font-family:Arial, Helvetica, sans-serif; 
+}
+
+.h-1{
+	padding-left: 160px;
+}
+
+
+table{
+	padding-left: 190px;
+	padding-top: 150PX;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: 20px;
+	
+}
+
+
+tr,td{
+	
+	padding-top: 30px;
+	color:gray;
+}
+
+
+h4{
+	padding-left: 160px;
+	padding-top: 140px;
+	font-family:Arial, Helvetica, sans-serif; 
+    color:#302e2e;
+    font-size: 22px;
+}
+
+
+
+/******************START-SECTION-SIXTEEN**************************************************/
+
+.SECTION-SIXTEEN {
+	width:100%;
+	height:1200px;
+}
+
+
+.sec-getintouch-1{
+	
+	height:100%;
+	width:55%;
+	float:left;
+
+}
+
+
+
+#heading-getintouch{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 46px;
+	padding-top: 150px;
+    margin-left: 400px;
+	margin-right: 400px;
+}
+
+#line-getintouch{
+	width:38px;
+	border:3px solid #ffbb00;
+	margin-top:-20px;
+	margin-bottom:20px;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+
+
+
+
+.login{
+    padding-top: 150px;
+    margin-left:400px;
+    margin-right:400px;
+   
+   
+}
+
+
+
+
+
+input{
+	width: 550px;
+	padding: 20px 30px;
+	margin: 15px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+    color:black;
+    font-size:20px;
+}
+
+textarea{
+	width: 550px;
+	padding: 100px 30px;
+	margin: 15px 0PX;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid black;
+}
+
+
+button{
+	background-color: black;
+	color:white;
+	border:1px solid black;
+	height:35px;
+	width:265px;
+	font-size: 20px;
+}
+
+.sec-getintouch-2{
+	height:100%;
+	width:45%;
+    float:right;
+	background-color:white; 
+}
+#sec-16-img{
+	height:auto;
+	width:100%;
+}
+
+/************************STRAT-SECTION-SEVENTEEN********************/
+.SECTION-SEVENTEEN{
+	
+	height:1300px;
+	width:100%;
+	background-color: #333131;
+}
+
+#img-footer{
+	height:150px;
+	width:150px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 170px;
+	
+}
+
+
+#line-footer{
+	width:190px;
+	border:2px solid #ffbb00;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:80px;
+	
+	
+}
+
+.list-footer-1{
+	
+	float:left;
+	margin-top:400px; 
+    padding-left:930px; 
+  
+    
+  
+	
+	
+}
+
+#l-footer,li{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+    float:left;
+    color:gray;
+    padding-left: 10px;
+	
+	
+}
+
+
+.list-footer-2{
+	color:white;
+	text-align: center;
+	padding-top: 300px;
+	padding-bottom: 90px;
+	/* margin-left: 0px; */
+    color:#4c4d4f;
+ 
+	
+}
+
+#l-footer-add{
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+    /* float:left;  */
+    font-size: 20px;
+    padding-left:1130px; 
+    padding-top:290px;  
+    padding-bottom: 0px; 
+}
+
+.number{
+	text-align: center;
+	font-family:"Times New Roman", Times, serif;
+	font-size: 20px;
+    color:gray; 
+    padding-top: 10px;
+    
+}
+
+.email{
+	text-align: center;
+	color:gray;
+	font-size: 20px;
+	font-family:"Times New Roman", Times, serif;
+	padding-top: 50px; 
+}
+
+
+/*********STRAT-SECTION-EIGHTEEN******************************************/
+.SECTION-EIGHTEEN{
+	height:150px;
+	width:100%;
+	background-color: #251E1E ;	
+}
+
+.mytheam{
+	text-align: center;
+	color:gray ;
+	padding-top: 70px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 23px;
 }
 
 

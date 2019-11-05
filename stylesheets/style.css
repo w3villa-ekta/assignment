@@ -1,14 +1,11 @@
 
-
-
-
 body {
 	background-color: #0000;
 	margin:0;
 	padding: 0;
 }
 
-/****************************** NAVBAR START  *********************************-----*/
+/**********************START-NAVIGATION-BAR*********************************-----*/
 .SECTION-ONE {
 	width:100%;
 }
@@ -55,24 +52,24 @@ a{
 	
 }
 
-/******************************************************** NAVBAR END*****************************************************/
+/**************END-NAVIGATION-BAR*******************************/
 
 
 
-/***********************secound section*******************************************************/
+/************START-IMAGE-SECTION************************************/
 .SECTION-TWO{
 	width:100%;
 }
 
 #img-2{
 	width:100%;
-	height: 100%;
+	height: auto;
 }
 
+/***********************END-IMAGE-SECTION****************/
 
 
-
-/***********************************Third section*********************************************/
+/***********************START-ABOUTUS-SECTION*********************************/
 .SECTION-THIRD {
 	width:100%;
 	height:400px;
@@ -84,19 +81,12 @@ a{
 	width:40%;
 	float: left;
 }
-
-.sec-2 {
-	height:100%;
-	width:60%;
-	float: right;
-}
-
 #aboutus
 {
 	text-align:center;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
-	padding-top: 100px;
+	padding-top: 140px;
 	margin-right: 40px;
 }
 
@@ -104,24 +94,29 @@ a{
 {
 	width:38px;
 	border:2px solid #ffbb00;
-	margin-left:159px;
-	margin-right: 159px;
+	background-color:#ffbb00;
+	margin-left:140px;
+	margin-right: 140px;
 	margin-top:-20px;
 	margin-bottom:-20px;
 }
-
+.sec-2 {
+	height:100%;
+	width:60%;
+	float: right;
+}
 
 #para-aboutus
 {
 	font-family:Arial, Helvetica, sans-serif;
-	padding-top: 120px;
-	padding-left:165px;
+	padding-top: 170px;
+	padding-left:20px;
 	justify-content: center;                                                     
 	text-align: justify;
 	justify-content: center;
 	height:200px;
-	width:450px;
-	font-size:14px;
+	width:550px;
+	font-size:12px;
 	color:gray;
 	letter-spacing: 2px;
 	line-height: 1.8;
@@ -133,7 +128,7 @@ a{
 
 
 
-/*****************************************************************Fourth section****************************/
+/*************************START-OUREXPERITISE-SECTION***********************/
 .SECTION-FOUR{
 	width:100%;
 	height:500px;
@@ -151,61 +146,64 @@ a{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	padding-top: 100px;
-	margin-left: 56px;
+	margin-left: 40px;
 }
 
 
 #experities-line{
 	width:38px;
 	border:2px solid #ffbb00;
+	background-color: #ffbb00;
 	margin-top:-20px;
-	margin-left:165px;
-	margin-right: 165px;
+	margin-left:140px;
+	margin-right: 140px;
 }
 
 
 progress{
 	height: .3em;
-	width: 100%;
+	width: 400px;
 	border: none;
 	border-radius: 5px;
-	margin-top: 35px;
-	padding-left:165px;
+	margin-top: 20px;
+	padding-left:140px;
+	
+	
 }
 
 
 small{
-	padding-left:165px;
+	padding-left:140px;
 	font-family:Arial, Helvetica, sans-serif;
 	color:gray;
+	font-size: 12px;
 }
 
 progress:after{
 	content: attr(data-label);
 	font-size: 0.8em;
 	vertical-align: 0; 
-	padding-left: 290px;
+	padding-left: 190px;
+	
 }
 
 
 .sec-4{
-	border:0px solid black;
-	height:100%;
-	width:60%;
-	display: inline;
+	height: 100%;
+	width: 60%;
 	float:left;
 }
 
 #para-experities{
 	font-family:Arial, Helvetica, sans-serif;
 	padding-top: 200px;
-	padding-left:165px;
+	padding-left:20px;
 	justify-content: center;                                                     
 	text-align: justify;
 	justify-content: center;
 	height:200px;
-	width:450px;
-	font-size:14px;
+	width:550px;
+	font-size:12px;
 	color:gray;
 	letter-spacing: 2px;
 	line-height: 1.8;
@@ -216,30 +214,33 @@ progress:after{
 
 
 
-/**********************************Fifth section**************************************/
+/**************************START-GOOGLEPLUS-SECTION**********************************/
 .SECTION-FIVE{
 	width:100%;
 	height:325px;
 }
 .sec-5{
-	border:0px solid red;
+
 	height:100%;
 	width:33.33%;
 	float:left;
+	/* background-color: rgb(0, 255, 13); */
 }
 
 .sec-6{
-	border:0px solid red;
+
 	height:100%;
 	width:33.33%;
 	float:left;
+	/* background-color: aqua; */
 }
 
 .sec-7{
-	border:0px solid red;
+
 	height:100%;
 	width:33.33%;
 	float:left;
+	/* background-color: rgb(166, 255, 0); */
 }
 
 #google-plus{
@@ -247,9 +248,9 @@ progress:after{
 	width:40px;
 	padding-bottom:95px;
 	padding-top:95px;
-	padding-right: 20px;
-	padding-left: 20PX;
-	margin-left: 20px;
+	padding-right: 5px;
+	padding-left: 5PX;
+	margin-left: 60px;
 	float:left;
 }
 
@@ -257,7 +258,7 @@ progress:after{
 	padding-top:80px ;
 	font-family:Arial, Helvetica, sans-serif;
 	color:gray;
-	font-size: 16PX;
+	font-size: 14PX;
 	
 	
 }
@@ -267,26 +268,27 @@ progress:after{
 	padding-right: 0px;                                                    
 	text-align: justify;
 	justify-content: center;
-	font-size:14px;
+	font-size:12px;
 	color:gray;
 	letter-spacing: 1px;
 	line-height: 1.4;
 	font-weight: 600px;
-	width:360px;
+	width:340px;
 }
 
 
 
 
 
-/***********************************************************Sixth section**************************************************/
+/*******************START-LET'S-MAKE-SECTION*****************************/
 .SECTION-SIX{
 	width:100%;
-	height:700px;
+	height:618px;
+	
+	
 }
 
 .sec-8{
-	border:0px solid black;
 	height:100%;
 	width:50%;
 	float:left;
@@ -294,16 +296,23 @@ progress:after{
 }
 
 #sec-6-img{
-	height:100%;
+	/* height:auto; */
 	width:100%;
 }
 
+
+.sec-letsmake{
+	width:50%;
+	float:left;
+	height:100%;
+	background-color:#f0f0f0;
+}
 
 #heading-letsmake{
 	font-size:36px;
 	color:#000000;
 	padding-top: 130PX;
-	padding-left: 150px;
+	padding-left: 80px;
 	font-family: Arial, Helvetica, sans-serif;
 	
 }
@@ -313,8 +322,8 @@ progress:after{
 	border:2px solid #ffbb00;
 	margin-top:40px;
 	margin-bottom: 30px;
-	margin-left: 150px;
-	margin-right: 100px;
+	margin-left: 80px;
+	margin-right: 80px;
 }
 
 
@@ -323,20 +332,20 @@ progress:after{
 	justify-content: center;                                                     
 	text-align: justify;
 	padding-top: 40PX;
-	margin-left: 150px;
-	margin-right: 150px;
-	font-size:14px;
+	margin-left: 80px;
+	margin-right: 80px;
+	font-size:12px;
 	color:gray;
 	letter-spacing: 2px;
 	line-height: 1.8;
 	font-weight: 600px;
-	width:55%;
+	width:62%;
 }
 
 
 
 
-/**************************STRAT-SECTION-SEVEN****************************************/
+/*******************START-PORTFOLIO-SECTION**********************/
 .SECTION-SEVEN{
 	height:250px;
 	width:100%;
@@ -354,7 +363,7 @@ progress:after{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	padding-top: 80px;
-	margin-right:40px;
+	margin-right:35px;
 	text-align:center;
 	
 }
@@ -362,8 +371,9 @@ progress:after{
 	width:38px;
 	border:2px solid #ffbb00;
 	margin-top:-20px;
-	margin-left:165px;
-	margin-right: 165px;
+	margin-left:150px;
+	margin-right: 150px;
+	background-color: #ffbb00;
 }
 
 
@@ -399,7 +409,7 @@ progress:after{
 a{
 	text-decoration: none;
 	color:gray;
-	font-size: 15px;
+	font-size: 12px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	padding-left: 14px;
@@ -409,24 +419,24 @@ a{
 
 
 
-/***************************START-SECTION-EIGHT*****************************************************/
+/***********START-BOXES-SECTION**********************************/
 .SECTION-EIGHT{
 	width:100%;
 	height:600px;
-	border:0px solid red;
-	background-color: white;
+
+	
 	
 }
 
 
 .item-1{
 	border:5px solid white;
-	height:310px;
-	width:300px;
+	height:280px;
+	width:280px;
 	float:left;
 	padding-left:0px;
 	padding-right: 0px;
-	margin-left:13px;
+	margin-left:7px;
 	margin-right: 0px;
 	margin-top: 10px;
 	background-color: #f0f0f0;
@@ -438,35 +448,35 @@ a{
 
 
 
-/********************************************Nineth section*******************************************/
+/**************START-VIEWMORE-SECTION**********************************/
 .SECTION-NINE{
 	width:100%;
-	height:130px;
+	height:120px;
 	background-color: #f0f0f0;
-	margin-top: 140px;
+	
 	
 }
 
 #heading-viewmore{
-	font-size:25px;
+	font-size:20px;
 	font-family:Arial, Helvetica, sans-serif;
 	text-align:center;
 	color:#d4cfcd;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 50px;
-	padding-bottom: 50px;
+    padding-top: 50px;
+	padding-bottom: 50px; 
 	font-weight:100pX;
 }
 
 
 
 
-/***********************START-SECTION-TEN****************************************/
+/***********************START-PARAGRAPH-SECTION***************************************/
 .SECTION-TEN{
 	width:100%;
-	height:400px;
-	background-color: white;
+	height:370px;
+
 }
 
 #para-sec-ten{
@@ -482,35 +492,35 @@ a{
 	margin-right: auto;
 	padding-top: 135px;
 	padding-bottom: 135px;
+	font-size: 12px;
 }
 
 
 
-/*#barry-allen{
+#barry-allen{
 	text-align: center;
 	font-family:Arial, Helvetica, sans-serif;
 	color:gray;
-	padding-top: -100px;
+	/* padding-top: -280px; */
+	margin-top:-60px;
 	width:100%;
+	font-size:15px;
 	
 	
 }
-/**************************START-SECTION-ELEVEN*****************************/
+/**************************START-IMAGE-SECTION*****************************/
 .SECTION-ELEVEN{
 	width:100%;
-	height:360px;
-	
+	height: fit-content;
 }
 
 #sec-11-img{
-	height:100%;
+	height:auto;
 	width:100%;
 }
 
 
-
-
-/**************************************************************************Twelve section*******************************************************/
+/*********************START-NUMBAR-SECTION*****************************/
 
 .SECTION-TWELVE{
 	width:100%;
@@ -522,8 +532,9 @@ a{
 .list-number{
 	float:left;
 	text-decoration: none;
-	margin-top: 100px;
+	margin-top: 70px;
 	text-align:center;
+	
 	
 }
 
@@ -534,55 +545,52 @@ a{
 	font-size:50px;
 	padding-left:120px;
 	font-family:cursive;
+	
 }
 
 #li-num{
 	float:left;
 	text-align:center;
 	list-style-type: none;
-	font-size:50px;
-	padding-left:170px;
+	font-size:45px;
+	padding-left:130px;
+	font-family:  sans-serif,Comic Sans MS;
 }
 
 #web{
-	font-size:15px;
-	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-family: sans-serif;
 	color:#0e5beb;
+	padding-top:-40px;
 }
 
 
 
-
-
-
-/**********************************************************Thirteen section**************************************************************************/
+/******************************START-IMAGE-SECTION************************************/
 .SECTION-THIRTEEN{
 	width:100%;
-	height:600px;
-	border:0px solid black;
+	height:fit-content;
+}
+#sec-13-img{
+	width:100%;
+	height:auto;
 }
 
 
 
-#sec-13-img{width:100%;
-	height:100%;
-}
 
-
-
-
-/*******************************************************fourth section***********************************************************************/
+/*******************************START-OURTEAM-SECTION********************************/
 .SECTION-FOURTEEN{
 	width:100%;
 	height:700px;
-	border:0px solid black;
+
 }
 
 #heading-ourteam{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	padding-top: 100px;
-	padding-left: 176PX;
+	padding-left: 150PX;
 }
 
 
@@ -590,25 +598,25 @@ a{
 	width:38px;
 	border:2px solid #ffbb00;
 	margin-top:-20px;
-	margin-left: 180px;
-	margin-right: 180px;
+	margin-left: 155px;
+	margin-right: 155px;
+	background-color: #ffbb00 ;
 }
 
 
 .sec-user{
-	margin-left:165px;
-	margin-right: 165px;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	margin-left:150px;
+	margin-right: 150px;
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
 
 
 #user-1{
-	height:300px;
-	width:300PX;
-	border:0px solid black;
+	height:280px;
+	width:280PX;
 	float:left;
-	padding-left: 5PX;
+	padding-left: 10px;
 }
 
 
@@ -619,10 +627,20 @@ a{
 }
 
 #barry-1{
-	padding-left: 110PX;
-	padding-right: 110PX;
+	padding-left: 100PX;
+	padding-right: 100PX;
 	font-family:Arial, Helvetica, sans-serif; 
 	color: gray;
+	padding-top:20px;
+	
+}
+
+#CEO{
+	padding-left: 120PX;
+	padding-right: 120PX;
+	padding-top: -35px;
+	font-family:Arial, Helvetica, sans-serif; 
+	color: lightgray;
 }
 
 
@@ -631,7 +649,8 @@ a{
 
 
 
-/*******************************************************Fifteenth section**********************************************************/
+
+/*********************START-PRICING-SECTION*******************************/
 .SECTION-FIFTEEN{
 	width:100%;
 	height:910px;
@@ -643,7 +662,7 @@ a{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	padding-top: 100px;
-	padding-left: 163PX;
+	padding-left: 155PX;
 	
 }
 
@@ -652,25 +671,25 @@ a{
 	width:36px;
 	border:2px solid #ffbb00;
 	margin-top:-20px;
-	margin-left: 165px;
-	margin-right: 165px;
+	margin-left: 155px;
+	margin-right: 155px;
 }
 
 
 .pricing-card{
-	margin-left:140px;
-	margin-right: 140px;
+	margin-left:180px;
+	margin-right: 180px;
 	padding-top: 90px;
 	padding-bottom: 50px;
 }
 
 
 #card-1{
-	height:550px;
-	width:300px;
+	height:500px;
+	width:250px;
 	border:none;
 	float:left;
-	margin-left:27px;
+	margin-left:15px;
 	border-radius: 1px;
 	background-color: white;
 	
@@ -678,7 +697,7 @@ a{
 
 h5{
 	font-family:Arial, Helvetica, sans-serif; 
-	font-size:15px;
+	font-size:10px;
 	padding-left: 20px;
 }
 
@@ -688,26 +707,26 @@ h5{
 }
 
 #num{
-	font-size:75px;
+	font-size:50px;
 	font-family:Arial, Helvetica, sans-serif; 
 }
 
 #month{
-	font-size:17px;
+	font-size:14px;
 	color:gray;
 	font-family:Arial, Helvetica, sans-serif; 
 }
 
 .h-1{
-	padding-left: 100px;
+	padding-left: 90px;
 }
 
 
 table{
-	padding-left: 100px;
-	padding-top: 90PX;
+	padding-left: 90px;
+	padding-top: 100PX;
 	font-family:Arial, Helvetica, sans-serif; 
-	font-size: 15px;
+	font-size: 12px;
 	
 }
 
@@ -720,20 +739,21 @@ tr,td{
 
 
 h4{
-	padding-left: 90px;
-	padding-top: 40px;
+	padding-left: 80px;
+	padding-top: 60px;
 	font-family:Arial, Helvetica, sans-serif; 
 	color:#302e2e;
+	font-size: 14px;
 }
 
 
 
 
-/*****************************************************sixteen section***************************************************/
+/******************START-GET-IN-TOUCH-SECTION**************************************************/
 
 .SECTION-SIXTEEN {
 	width:100%;
-	height:800px;
+	height:700px;
 }
 
 
@@ -742,7 +762,7 @@ h4{
 	height:100%;
 	width:55%;
 	float:left;
-	background-color:white; 
+	
 }
 
 
@@ -750,7 +770,7 @@ h4{
 	border:0px solid black;
 	height:100%;
 	width:45%;
-	float:left;
+	float:right;
 	background-color:white; 
 }
 
@@ -760,7 +780,7 @@ h4{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	padding-top: 100px;
-	padding-left: 163PX;
+	padding-left: 155PX;
 	
 }
 
@@ -769,15 +789,15 @@ h4{
 	border:2px solid #ffbb00;
 	margin-top:-20px;
 	margin-bottom:20px;
-	margin-left: 165px;
-	margin-right: 165px;
+	margin-left: 155px;
+	margin-right: 155px;
 }
 
 .login{
 	border: 0px solid black;
 	height:400px;
 	width:400px;
-	margin-left: 165px;
+	margin-left: 155px;
 	padding-top: 50px;
 }
 
@@ -818,9 +838,6 @@ button{
 }
 
 
-
-
-
 #sec-16-img{
 	height:100%;
 	width:100%;
@@ -830,10 +847,10 @@ button{
 
 
 
-/*********************************************************Seventeen section********************************************/
+/************************STRAT-FOOTER-SECTION********************/
 .SECTION-SEVENTEEN{
 	border:0px solid red;
-	height:450px;
+	height:550px;
 	width:100%;
 	background-color: #333131;
 }
@@ -862,7 +879,7 @@ button{
 .list-footer-1{
 	
 	float:left;
-	margin-top:50px; 
+	margin-top:110px; 
 	padding-left:350px;
 	
 	
@@ -879,19 +896,18 @@ button{
 
 
 .list-footer-2{
-	color:white;
-	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	margin-left: 580px;
-	color:#4c4d4f;
+	color:gray;
+	
+
 	
 }
 
 #l-footer-add{
 	font-family: "Times New Roman", Times, serif;
 	list-style-type: none;
-	float:left;     
+	padding-top:190px;  
+	margin-left: 450px;  
+	
 }
 
 .number{
@@ -899,6 +915,7 @@ button{
 	font-family:"Times New Roman", Times, serif;
 	font-size: 14px;
 	color:gray; 
+	padding-top:50px;
 }
 
 .email{
@@ -913,7 +930,7 @@ button{
 
 
 
-/*************************************Eightteen section***********************************************/
+/*********STRAT-SECTION-EIGHTEEN******************************************/
 .SECTION-EIGHTEEN{
 	border:0px solid red;
 	height:120px;
