@@ -8,6 +8,7 @@ body {
 /**********************START-NAVIGATION-BAR*********************************-----*/
 .SECTION-ONE {
 	width:100%;
+	height: 50px;
 }
 
 .nav-bar {
@@ -52,6 +53,7 @@ a{
 	
 }
 
+
 /**************END-NAVIGATION-BAR*******************************/
 
 
@@ -95,7 +97,7 @@ a{
 	width:38px;
 	border:2px solid #ffbb00;
 	background-color:#ffbb00;
-	margin-left:140px;
+	margin-left:163px;
 	margin-right: 140px;
 	margin-top:-20px;
 	margin-bottom:-20px;
@@ -115,7 +117,7 @@ a{
 	text-align: justify;
 	justify-content: center;
 	height:200px;
-	width:550px;
+	width:620px;
 	font-size:12px;
 	color:gray;
 	letter-spacing: 2px;
@@ -131,7 +133,7 @@ a{
 /*************************START-OUREXPERITISE-SECTION***********************/
 .SECTION-FOUR{
 	width:100%;
-	height:500px;
+	height:450px;
 }
 
 .sec-3{
@@ -155,8 +157,8 @@ a{
 	border:2px solid #ffbb00;
 	background-color: #ffbb00;
 	margin-top:-20px;
-	margin-left:140px;
-	margin-right: 140px;
+	margin-left:163px;
+	margin-right: 163px;
 }
 
 
@@ -166,14 +168,18 @@ progress{
 	border: none;
 	border-radius: 5px;
 	margin-top: 20px;
-	padding-left:140px;
-	
-	
+	padding-left:163px;
+
+}
+
+/* Chrome */
+progress::-webkit-progress-value {
+    background: rgb(92, 89, 89);
 }
 
 
 small{
-	padding-left:140px;
+	padding-left:163px;
 	font-family:Arial, Helvetica, sans-serif;
 	color:gray;
 	font-size: 12px;
@@ -184,6 +190,7 @@ progress:after{
 	font-size: 0.8em;
 	vertical-align: 0; 
 	padding-left: 190px;
+
 	
 }
 
@@ -202,7 +209,7 @@ progress:after{
 	text-align: justify;
 	justify-content: center;
 	height:200px;
-	width:550px;
+	width:620px;
 	font-size:12px;
 	color:gray;
 	letter-spacing: 2px;
@@ -220,7 +227,7 @@ progress:after{
 	height:325px;
 }
 .sec-5{
-
+	
 	height:100%;
 	width:33.33%;
 	float:left;
@@ -228,7 +235,7 @@ progress:after{
 }
 
 .sec-6{
-
+	
 	height:100%;
 	width:33.33%;
 	float:left;
@@ -236,7 +243,7 @@ progress:after{
 }
 
 .sec-7{
-
+	
 	height:100%;
 	width:33.33%;
 	float:left;
@@ -283,7 +290,7 @@ progress:after{
 /*******************START-LET'S-MAKE-SECTION*****************************/
 .SECTION-SIX{
 	width:100%;
-	height:618px;
+	height:680px;
 	
 	
 }
@@ -312,7 +319,7 @@ progress:after{
 	font-size:36px;
 	color:#000000;
 	padding-top: 130PX;
-	padding-left: 80px;
+	padding-left: 100px;
 	font-family: Arial, Helvetica, sans-serif;
 	
 }
@@ -322,8 +329,8 @@ progress:after{
 	border:2px solid #ffbb00;
 	margin-top:40px;
 	margin-bottom: 30px;
-	margin-left: 80px;
-	margin-right: 80px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 
@@ -332,14 +339,14 @@ progress:after{
 	justify-content: center;                                                     
 	text-align: justify;
 	padding-top: 40PX;
-	margin-left: 80px;
-	margin-right: 80px;
+	margin-left: 100px;
+	margin-right: 100px;
 	font-size:12px;
 	color:gray;
 	letter-spacing: 2px;
 	line-height: 1.8;
 	font-weight: 600px;
-	width:62%;
+	width:430px;
 }
 
 
@@ -363,7 +370,7 @@ progress:after{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	padding-top: 80px;
-	margin-right:35px;
+	margin-right:80px;
 	text-align:center;
 	
 }
@@ -422,8 +429,8 @@ a{
 /***********START-BOXES-SECTION**********************************/
 .SECTION-EIGHT{
 	width:100%;
-	height:600px;
-
+	height:690px;
+	
 	
 	
 }
@@ -431,8 +438,8 @@ a{
 
 .item-1{
 	border:5px solid white;
-	height:280px;
-	width:280px;
+	height:309px;
+	width:309px;
 	float:left;
 	padding-left:0px;
 	padding-right: 0px;
@@ -464,7 +471,7 @@ a{
 	color:#d4cfcd;
 	margin-left: auto;
 	margin-right: auto;
-    padding-top: 50px;
+	padding-top: 50px;
 	padding-bottom: 50px; 
 	font-weight:100pX;
 }
@@ -476,7 +483,7 @@ a{
 .SECTION-TEN{
 	width:100%;
 	height:370px;
-
+	
 }
 
 #para-sec-ten{
@@ -529,39 +536,29 @@ a{
 }
 
 
-.list-number{
-	float:left;
-	text-decoration: none;
-	margin-top: 70px;
-	text-align:center;
-	
-	
-}
+
 
 #ul-num{
-	float:left;
-	text-align:center;
+	
 	list-style-type: none;
 	font-size:50px;
-	padding-left:120px;
-	font-family:cursive;
+	padding-bottom: 225px;
 	
 }
 
 #li-num{
-	float:left;
-	text-align:center;
+	
 	list-style-type: none;
-	font-size:45px;
-	padding-left:130px;
+	padding-left:175px;
+	padding-top: 75px;
 	font-family:  sans-serif,Comic Sans MS;
 }
 
 #web{
-	font-size:12px;
+	font-size:10px;
 	font-family: sans-serif;
-	color:#0e5beb;
-	padding-top:-40px;
+	color: #0E5BA7;
+	padding-left: 15px;
 }
 
 
@@ -583,14 +580,14 @@ a{
 .SECTION-FOURTEEN{
 	width:100%;
 	height:700px;
-
+	
 }
 
 #heading-ourteam{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	padding-top: 100px;
-	padding-left: 150PX;
+	padding-left: 170PX;
 }
 
 
@@ -598,8 +595,8 @@ a{
 	width:38px;
 	border:2px solid #ffbb00;
 	margin-top:-20px;
-	margin-left: 155px;
-	margin-right: 155px;
+	margin-left: 176px;
+	margin-right: 176px;
 	background-color: #ffbb00 ;
 }
 
@@ -616,7 +613,7 @@ a{
 	height:280px;
 	width:280PX;
 	float:left;
-	padding-left: 10px;
+	padding-left: 40px;
 }
 
 
@@ -632,6 +629,7 @@ a{
 	font-family:Arial, Helvetica, sans-serif; 
 	color: gray;
 	padding-top:20px;
+	display: block;
 	
 }
 
@@ -641,6 +639,8 @@ a{
 	padding-top: -35px;
 	font-family:Arial, Helvetica, sans-serif; 
 	color: lightgray;
+	display: block;
+	padding-top:15px;
 }
 
 
@@ -662,7 +662,7 @@ a{
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	padding-top: 100px;
-	padding-left: 155PX;
+	padding-left: 180PX;
 	
 }
 
@@ -671,8 +671,8 @@ a{
 	width:36px;
 	border:2px solid #ffbb00;
 	margin-top:-20px;
-	margin-left: 155px;
-	margin-right: 155px;
+	margin-left: 180px;
+	margin-right: 180px;
 }
 
 
@@ -686,18 +686,17 @@ a{
 
 #card-1{
 	height:500px;
-	width:250px;
+	width:290px;
 	border:none;
 	float:left;
-	margin-left:15px;
-	border-radius: 1px;
+	margin-left:22px;
 	background-color: white;
 	
 }
 
 h5{
 	font-family:Arial, Helvetica, sans-serif; 
-	font-size:10px;
+	font-size:12px;
 	padding-left: 20px;
 }
 
@@ -718,12 +717,12 @@ h5{
 }
 
 .h-1{
-	padding-left: 90px;
+	padding-left: 105px;
 }
 
 
 table{
-	padding-left: 90px;
+	padding-left: 105px;
 	padding-top: 100PX;
 	font-family:Arial, Helvetica, sans-serif; 
 	font-size: 12px;
@@ -739,8 +738,8 @@ tr,td{
 
 
 h4{
-	padding-left: 80px;
-	padding-top: 60px;
+	padding-left: 85px;
+	padding-top: 50px;
 	font-family:Arial, Helvetica, sans-serif; 
 	color:#302e2e;
 	font-size: 14px;
@@ -871,7 +870,7 @@ button{
 	border:2px solid #ffbb00;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top:50px;
+	margin-top:70px;
 	
 	
 }
@@ -880,10 +879,7 @@ button{
 	
 	float:left;
 	margin-top:110px; 
-	padding-left:350px;
-	
-	
-	
+	padding-left:409px;	
 }
 
 #l-footer,li{
@@ -895,19 +891,30 @@ button{
 }
 
 
-.list-footer-2{
-	color:gray;
-	
+/* .list-footer-2{
+	color:gray;	
+} */
 
-	
-}
-
-#l-footer-add{
+/* #l-footer-add{
 	font-family: "Times New Roman", Times, serif;
 	list-style-type: none;
 	padding-top:190px;  
 	margin-left: 450px;  
 	
+} */
+
+
+.list-footer-2{
+	float:left;
+	margin-top:-4px; 
+	padding-left:490px;	
+	color:gray;
+
+}
+
+
+#f-2{
+	padding-left:10px;
 }
 
 .number{
@@ -915,7 +922,7 @@ button{
 	font-family:"Times New Roman", Times, serif;
 	font-size: 14px;
 	color:gray; 
-	padding-top:50px;
+	padding-top:214px;
 }
 
 .email{
@@ -923,7 +930,7 @@ button{
 	color:gray;
 	font-size: 14;
 	font-family:"Times New Roman", Times, serif;
-	padding-top: 10px; 
+	padding-top: 27px; 
 }
 
 
@@ -947,15 +954,3 @@ button{
 
 
 /***************************************************END*****************************************************/
-
-
-
-
-/***************************************using meadia query*********************************************/
-/* For mobile phones: */
-[class*="col-"] {
-	width: 100%;
-}
-
-
-/***************************strat to media query*************/

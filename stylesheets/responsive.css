@@ -5,6 +5,9 @@ body {
     padding: 0;
   
 }
+
+
+
 /******************START-SECTION-ONE-320******************/
 
 @media only screen  and (min-width:0px) and (max-width: 320px) {
@@ -584,7 +587,11 @@ a{
 	font-family:Arial, Helvetica, sans-serif; 
 	color: gray;
 }
-
+#ceo{
+    padding-left: 140px;
+    padding-top: 50px;
+    color:gray;
+}
 
 
 /*********************START-SECTION-FIFTEEN************************************************/
@@ -1462,7 +1469,11 @@ a{
 	font-family:Arial, Helvetica, sans-serif; 
 	color: gray;
 }
-
+#ceo{
+    padding-left: 140px;
+    padding-top:50px;
+    color:gray;
+}
 
 /*********************START-SECTION-FIFTEEN************************************************/
 .SECTION-FIFTEEN{
@@ -2335,7 +2346,11 @@ a{
 	font-family:Arial, Helvetica, sans-serif; 
 	color: gray;
 }
-
+#ceo{
+    padding-left: 170px;
+    padding-top: 50px;
+    color:gray;
+}
 
 /*********************START-SECTION-FIFTEEN************************************************/
 .SECTION-FIFTEEN{
@@ -3227,9 +3242,10 @@ a{
 
 
 #user-1{
-	height:190px;
-	width:190PX;
-	float:left;
+	height:180px;
+	width:180PX;
+    float:left;
+    padding-left: 10px;
    
 }
 
@@ -3241,12 +3257,15 @@ a{
 }
 
 #barry-1{
-	padding-left: 55PX;
-	padding-right: 55PX;
+	padding-left: 51PX;
+	padding-right: 51PX;
 	font-family:Arial, Helvetica, sans-serif; 
 	color: gray;
 }
-
+#ceo{
+    padding-left: 80px;
+    color:gray;
+}
 
 /*********************START-SECTION-FIFTEEN************************************************/
 .SECTION-FIFTEEN{
@@ -4237,7 +4256,10 @@ a{
 	font-family:Arial, Helvetica, sans-serif; 
 	color: gray;
 }
-
+#ceo{
+    padding-left: 100px;
+    color:gray;
+}
 
 /*********************START-SECTION-FIFTEEN************************************************/
 .SECTION-FIFTEEN{
@@ -5134,6 +5156,11 @@ a{
 	font-family:Arial, Helvetica, sans-serif; 
     color: gray;
     font-size: 18px;
+}
+
+#ceo{
+    padding-left: 150px;
+    color:gray;
 }
 
 /*********************START-SECTION-FIFTEEN************************************************/
@@ -6109,9 +6136,10 @@ a{
 
 
 #user-1{
-	height:590px;
-	width:590PX;
-	float:left;
+	height:550px;
+	width:550PX;
+    float:left;
+    padding-left:25px;
 }
 
 
@@ -6127,6 +6155,11 @@ a{
 	font-family:Arial, Helvetica, sans-serif; 
     color: gray;
     font-size: 20px;
+  
+}
+
+#ceo{
+    padding-left: 250px;
 }
 
 /*********************START-SECTION-FIFTEEN************************************************/

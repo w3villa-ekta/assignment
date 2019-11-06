@@ -1,0 +1,9 @@
+{
+    "openInDefaultBrowser.run.openWithLocalHttpServer": false,
+    "spellright.language": [],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}
