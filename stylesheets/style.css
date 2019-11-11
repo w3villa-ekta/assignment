@@ -136,6 +136,8 @@ h1{
 }
 
 
+
+
 progress{
 	height: .3em;
 	width: 346px;
@@ -158,6 +160,12 @@ progress:after{
 	font-size: 0.8em;
     vertical-align: 0;
     padding-left: 270px; 
+}
+
+
+/* Chrome */
+progress::-webkit-progress-value {
+    background: rgb(92, 89, 89);
 }
 
 #para-expertise{
@@ -186,14 +194,16 @@ h2{
     font-size: 15px;
     font-family: sans-serif; 
     color:gray;
-    display: inline;
+    margin-top: -28px;
+    margin-left: 100px;
 } 
 
 
 #google-plus{
 	height:auto;
     width:40px;
-    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
    
    
 	
@@ -210,8 +220,8 @@ h2{
 	line-height: 1.5;
     font-weight: 600px;
     text-align: justify;
-    width: 251px;
-    padding: 10px 44px 10px 44px;
+    width: 200px;
+    padding: 10px 100px 10px 100px;
   
    
 }
@@ -367,7 +377,7 @@ h1{
     border-radius: 5px;
     background-color: #f1f1f1;
     font-size: 20px;
-    box-shadow: 5px 10px 8px 10px #dfd7d7;
+    box-shadow: 5px 3px 5px 3px #dfd7d7;
     }
     
     #btn:hover{
@@ -500,7 +510,8 @@ h1{
 
 #user-img{
 	height:100%;
-	width:100%;
+    width:100%;
+  
 }
 
 #barry-1{
@@ -508,6 +519,7 @@ h1{
 	font-family:Arial, Helvetica, sans-serif; 
     color: gray;
     font-size: 15px;
+    
 }
 
 
