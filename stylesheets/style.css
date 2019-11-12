@@ -20,9 +20,7 @@ header .logo a img{
     width: 35px;
 }
 
-header .nav-menu{
-    
-}
+
 header .nav-menu ul{
     margin: 0;
     padding: 0;
@@ -46,23 +44,23 @@ header .nav-menu ul li a {
 /* unvisited link */
 .nav-menu ul li a:hover {
     color: green;
-  }
+}
 
 
 
 
-  /**************sec-clouser****************/
+/**************sec-clouser****************/
 
-  .sec-clouser{
-	width:100%;
+.sec-clouser{
+    width:100%;
 }
 
 #img-2{
-	width:100%;
-	height: auto;
+    width:100%;
+    height: auto;
 }
 
-  
+
 
 
 
@@ -89,7 +87,7 @@ header .nav-menu ul li a {
 
 .sec-about-us{
     background-color: #f1f1f1;
-
+    
 }
 
 h1{
@@ -101,19 +99,19 @@ h1{
     border: 2px solid #F6B813;
     width: 42px;
     margin-left: -1px;
-
+    
 }
 #para-aboutus{
     font-family: sans-serif;
     font-size: 13px;
     color: lightslategray;
     letter-spacing: 2px;
-	line-height: 1.8;
+    line-height: 1.8;
     font-weight: 600px;
     text-align: justify;
     padding-top: 16px;
     padding-bottom: 16px;
-
+    
 }
 
 /*************section 2************** */
@@ -132,32 +130,32 @@ h1{
     border: 2px solid #F6B813;
     width: 42px;
     margin-left: -1px;
-
+    
 }
 
 
 
 
 progress{
-	height: .3em;
-	width: 346px;
-	border: none;
-	border-radius: 5px;
-	margin-top: 20px;
-
+    height: .3em;
+    width: 346px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    
 }
 
 
 small{
-	
-	font-family:Arial, Helvetica, sans-serif;
+    
+    font-family:Arial, Helvetica, sans-serif;
     color:gray;
     padding-right: 157px;
 }
 
 progress:after{
-	content: attr(data-label);
-	font-size: 0.8em;
+    content: attr(data-label);
+    font-size: 0.8em;
     vertical-align: 0;
     padding-left: 270px; 
 }
@@ -173,12 +171,12 @@ progress::-webkit-progress-value {
     font-size: 13px;
     color: lightslategray;
     letter-spacing: 2px;
-	line-height: 1.8;
+    line-height: 1.8;
     font-weight: 600px;
     text-align: justify;
     padding-top: 91px;
     padding-bottom: 91px;
-
+    
 }
 /******************* section-3************* */
 
@@ -186,7 +184,7 @@ progress::-webkit-progress-value {
 .left-area-google-plus{
     width: 33.33%;
     float: left;
-
+    
 }
 
 
@@ -200,13 +198,13 @@ h2{
 
 
 #google-plus{
-	height:auto;
+    height:auto;
     width:40px;
     padding-left: 30px;
     padding-right: 30px;
-   
-   
-	
+    
+    
+    
 }
 
 
@@ -217,13 +215,13 @@ h2{
     font-size: 13px;
     color: lightslategray;
     letter-spacing: 1px;
-	line-height: 1.5;
+    line-height: 1.5;
     font-weight: 600px;
     text-align: justify;
     width: 200px;
     padding: 10px 100px 10px 100px;
-  
-   
+    
+    
 }
 
 /******************** section-banner************** */
@@ -243,49 +241,49 @@ h2{
     background-color: #f1f1f1;
 }
 
- 
+
 #banner-one{
     height:auto;
     width:100%;
-   
-   
+    
+    
 }
 
 
 
 #heading-letsmake{
-	font-size:36px;
-	color:#000000;
-	padding-top: 130PX;
-	padding-left: 150px;
-	font-family: Arial, Helvetica, sans-serif;
-	
+    font-size:36px;
+    color:#000000;
+    padding-top: 130PX;
+    padding-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 #line-letsmake{
-	width:38px;
-	border:2px solid #ffbb00;
-	margin-top:40px;
-	margin-bottom: 30px;
-	margin-left: 150px;
-	margin-right: 100px;
+    width:38px;
+    border:2px solid #ffbb00;
+    margin-top:40px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 100px;
 }
 
 
 #para-letsmake{
-	font-family:Arial, Helvetica, sans-serif;
-	justify-content: center;                                                     
-	text-align: justify;
+    font-family:Arial, Helvetica, sans-serif;
+    justify-content: center;                                                     
+    text-align: justify;
     padding-top: 40PX;
     padding-bottom: 40px;
-	margin-left: 150px;
-	margin-right: 150px;
-	font-size:14px;
-	color:gray;
-	letter-spacing: 2px;
-	line-height: 1.8;
-	font-weight: 600px;
-	width:300px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size:14px;
+    color:gray;
+    letter-spacing: 2px;
+    line-height: 1.8;
+    font-weight: 600px;
+    width:300px;
 } 
 
 
@@ -308,22 +306,20 @@ h1{
     border: 2px solid #F6B813;
     width: 42px;
     margin-left: -1px;
-
+    
 }
 
 
- .portfolio ul{
+.portfolio ul{
     margin: 0;
     padding: 0;
     padding-left: 70px;
     padding-right: 70px;
     padding-top: 30px;
-    padding-bottom: 30px;
-  
-
+    padding-bottom: 30px;    
 }
 
- .portfolio ul li{
+.portfolio ul li{
     list-style-type: none;
     display: inline-block;
 }
@@ -336,33 +332,30 @@ h1{
     font-size: 14;
     font-weight: 600;
     color:gray;
-   
+    
 }
 
 /* unvisited link */
 .portfolio ul li a:hover {
     color: green;
-  }
+}
 
 
 /**************** section-boxes********** */
 
-  .item-1{
-	border:5px solid white;
-	height:318px;
-	width:318px;
-	float:left;
+.item-1{
+    border:5px solid white;
+    height:318px;
+    width:318px;
+    float:left;
     background-color: #f0f0f0;
 }
 
 
 /********** viewport******** */
-
 .sec-viewport{
-    background-color: #f1f1f1;
-
+    background-color: #f1f1f1;   
 }
-
 
 .sec-viewport .container {
     text-align: center;
@@ -378,93 +371,93 @@ h1{
     background-color: #f1f1f1;
     font-size: 20px;
     box-shadow: 5px 3px 5px 3px #dfd7d7;
-    }
-    
-    #btn:hover{
-        background-color: #f1f1f1;
-        color:black;
-    }
-
-    /***********section-paragraph*********/
-
-    .sec-para .container{
-        text-align: center;
-    }
-    #para-sec{
-        font-family:Arial, Helvetica, sans-serif;
-        color:gray;
-        letter-spacing: 2px;
-        line-height: 1.8;
-        font-weight: 600px;
-        width:50%;
-        justify-content: center;
-        margin-left: auto;
-        margin-right: auto;
-        padding-top: 135px;
-        padding-bottom: 135px;
-    }
-
-    #barry-allen{
-        text-align: center;
-        font-family:Arial, Helvetica, sans-serif;
-        color:gray;
-        padding-top: -100px;
-        width:100%;
-        
-        
-    }
-
-  /* *******section-clouser****** */
-
-  .sec-banner{
-      width:100%;
-  }
-
-  #banner-img{
-    height:auto;
-    width:100%;
-	
 }
 
-/* ***********section-number */
+#btn:hover{
+    background-color: #f1f1f1;
+    color:black;
+}
+
+
+
+/***********section-paragraph*******/
+
+.sec-para .container{
+    text-align: center;
+}
+#para-sec{
+    font-family:Arial, Helvetica, sans-serif;
+    color:gray;
+    letter-spacing: 2px;
+    line-height: 1.8;
+    font-weight: 600px;
+    width:50%;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 135px;
+    padding-bottom: 135px;
+}
+
+#barry-allen{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color:gray;
+    padding-top: -100px;
+    width:100%;
+    
+    
+}
+
+/* *******section-clouser****** */
+
+.sec-banner{
+    width:100%;
+}
+
+#banner-img{
+    height:auto;
+    width:100%;
+    
+}
+
+/* ***********section-number ***********/
 
 .list-number{
     width:100%;
-	float:left;
-	text-decoration: none;
+    float:left;
+    text-decoration: none;
     text-align:center;
     padding: 50px 0 50px;
-	
+    
 }
 
 #ul-num{
-	font-family:cursive;
+    font-family:cursive;
 }
 
 #li-num{
-	float:left;
-	text-align:center;
-	list-style-type: none;
-	font-size:50px;
+    float:left;
+    text-align:center;
+    list-style-type: none;
+    font-size:50px;
     padding: 35px 88px 35px 88px;
 }
 
 #web{
-	font-size:10px;
-	font-family:Arial, Helvetica, sans-serif;
-	color:#0e5beb;
+    font-size:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#0e5beb;
 }
 
 /*******section-clouser****/
 .sec-clouser{
-	width:100%;
-	
-
+    width:100%;   
 }
 
 #clouser-img{
-   width:100%;
-	height:auto;
+    width:100%;
+    height:auto;
 }
 
 
@@ -473,68 +466,65 @@ h1{
 
 
 #heading-ourteam{
-	font-family:Arial, Helvetica, sans-serif;
-	font-size: 36px;
-
-	
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 36px;    
 }
 
 
 #ourteam-hr{
     border: 2px solid #F6B813;
     width: 42px;
-    margin-left: -1px;
-
+    margin-left: -1px;    
 }
 
 
 
 .sec-user{
-	/* margin-left:165px;
-	margin-right: 165px; */
-	/* padding-top: 50px;
-	padding-bottom: 50px; */
+    overflow: hidden;
 }
 
 
 #user-1{
-	height:300px;
-	width:300PX;
-	border:0px solid black;
-	float:left;
-    padding-left: 32PX;
-    padding-right: 32px;
+    width: 33%;
+    float: left;
+}
+#user-1 .inner_user{
+    padding: 10px;
 }
 
 
 
 #user-img{
-	height:100%;
-    width:100%;
-  
+    /* height:100%; */
+    width:100%;    
 }
 
 #barry-1{
-
-	font-family:Arial, Helvetica, sans-serif; 
+     font-family:Arial, Helvetica, sans-serif; 
     color: gray;
     font-size: 15px;
+    padding: 0px 135px 0px 135px;
     
 }
 
+#ceo{
+    color:gray;
+    padding: 0px 158px;
+}
 
-/* **********section-pricing */
+
+/* **********section-pricing**************/
 
 .sec-pricing-plans{
     background-color: #f1f1f1;
-
+    
 }
 
 #heading-pricing{
-	font-family:Arial, Helvetica, sans-serif;
-	font-size: 36px;
-
-	
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    
+    
 }
 
 
@@ -542,72 +532,72 @@ h1{
     border: 2px solid #F6B813;
     width: 42px;
     margin-left: -1px;
-
+    
 }
 
 .pricing-card{
-
-	padding-top: 90px;
+    
+    padding-top: 90px;
     padding-bottom: 90px;
-  
+    
 }
 
 
 #card-1{
-	height:550px;
-	width:300px;
-	border:none;
-	float:left;
-	border-radius: 1px;
+    height:550px;
+    width:300px;
+    border:none;
+    float:left;
+    border-radius: 1px;
     background-color: white;
     margin: 33px;
     box-shadow: 5px 10px 8px 10px #afa9a9;
     
     
-	
+    
 }
 
 h5{
-	font-family:Arial, Helvetica, sans-serif; 
-	font-size:15px;
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:15px;
     padding-left: 20px;
     padding-right: 20px;
 }
 
 #doller{
-	font-size:20px;
-	
+    font-size:20px;
+    
 }
 
 #num{
-	font-size:75px;
-	font-family:Arial, Helvetica, sans-serif; 
+    font-size:75px;
+    font-family:Arial, Helvetica, sans-serif; 
 }
 
 #month{
-	font-size:17px;
-	color:gray;
-	font-family:Arial, Helvetica, sans-serif; 
+    font-size:17px;
+    color:gray;
+    font-family:Arial, Helvetica, sans-serif; 
 }
 
 .h-1{
-	text-align: center;
+    text-align: center;
 }
 
 
 table{
-
-	font-family:Arial, Helvetica, sans-serif; 
+    
+    font-family:Arial, Helvetica, sans-serif; 
     font-size: 15px;
     padding-top: 50px;
     padding-bottom: 50px;
-	
+    
 }
 
 
 tr,td{
-	
-	
+    
+    
     color:gray;
     display: table;
     margin: 0px 44px auto;
@@ -616,8 +606,8 @@ tr,td{
 
 
 h4{
-
-	font-family:Arial, Helvetica, sans-serif; 
+    
+    font-family:Arial, Helvetica, sans-serif; 
     color:#302e2e;
     padding: 30px 0px 30px 0px;
     text-align: center;
@@ -641,20 +631,20 @@ h4{
 
 
 #heading-getintouch{
-	font-family:Arial, Helvetica, sans-serif;
-	font-size: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 36px;
     padding-top: 100px;
     padding-left: 100PX;
     padding-right: 100px;
-	
-	
+    
+    
 }
 
 #getintouch-hr{
-	width:38px;
-	border:2px solid #ffbb00;
-	margin-top:-20px;
-	margin-bottom:20px;
+    width:38px;
+    border:2px solid #ffbb00;
+    margin-top:-20px;
+    margin-bottom:20px;
     margin-left: 100px;
     margin-right: 100px;
 }
@@ -663,47 +653,47 @@ h4{
 
 
 .login{
-	border: 0px solid black;
-	height:400px;
-	width:400px;
+    border: 0px solid black;
+    height:400px;
+    width:400px;
     margin-left: 100px;
-	padding-top: 50px;
+    padding-top: 50px;
 }
 
 
 .placeholder{
-	color:#E6E3E3;
-	
+    color:#E6E3E3;
+    
 }
 
 
 input{
-	width: 100%;
-	padding: 15px 20px;
-	margin: 8px 0;
-	box-sizing: border-box;
-	border: none;
-	border-bottom: 2px solid black;
-	color:#E6E3E3;
+    width: 100%;
+    padding: 15px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+    color:#E6E3E3;
 }
 
 textarea{
-	width: 100%;
-	padding: 70px 20px;
-	margin: 8px 0PX;
-	box-sizing: border-box;
-	border: none;
-	border-bottom: 2px solid black;
+    width: 100%;
+    padding: 70px 20px;
+    margin: 8px 0PX;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
 }
 
 
 button{
-	background-color: black;
-	color:white;
-	border:0px solid black;
-	height:28px;
-	width:200px;
-	font-size: 11px;
+    background-color: black;
+    color:white;
+    border:0px solid black;
+    height:28px;
+    width:200px;
+    font-size: 11px;
 }
 
 button:hover{
@@ -717,46 +707,43 @@ button:hover{
 /*********section-footer***********/
 
 .sec-footer{
-	border:0px solid red;
-	height:450px;
-	width:100%;
-	background-color: #333131;
+    border:0px solid red;
+    height:450px;
+    width:100%;
+    background-color: #333131;
 }
 
 #img-footer{
-	height:80px;
-	width:80px;
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
-	padding-top: 60px;
-	
+    height:80px;
+    width:80px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 60px;
+    
 }
 
 
 #footer-hr{
-	width:190px;
-	border:2px solid #ffbb00;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top:50px;
-	
-	
+    width:190px;
+    border:2px solid #ffbb00;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    
+    
 }
 
 
 .footer-one ul{
-  
- 
-    /* padding-top: 30px;
-    padding-bottom: 30px; */
     list-style-type: center;
-    padding: 20px 265px 20px 265px;
-  
-
+    /* padding: 20px 265px 20px 265px; */
+    text-align: center;
+    
+    
 }
 
- .footer-one ul li{
+.footer-one ul li{
     list-style-type: none;
     display: inline-block;
 }
@@ -764,34 +751,32 @@ button:hover{
     color: black;
     text-decoration: none;
     display: inline-block;
-    padding: 12px 14px 12px 14px;
+    /* padding: 12px 14px 12px 14px; */
+    text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 13;
     font-weight: 600;
     color:gray;
-   
+    
 }
 
 /* unvisited link */
 .footer-one ul li a:hover {
     color: green;
-  }
+}
 
 
 
 
 .footer-secound ol{
-  
- 
-    /* padding-top: 30px;
-    padding-bottom: 30px; */
     list-style-type: center;
-    padding: 0px 489px 0px 489px;
-  
-
+    /* padding: 0px 489px 0px 489px; */
+    text-align: center;
+    
+    
 }
 
- .footer-secound ol li{
+.footer-secound ol li{
     list-style-type: none;
     display: inline-block;
 }
@@ -799,45 +784,46 @@ button:hover{
     color: black;
     text-decoration: none;
     display: inline-block;
-    padding: 12px 14px 12px 14px;
+    /* padding: 12px 14px 12px 14px; */
+    text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 13;
     font-weight: 600;
     color:gray;
-   
+    
 }
 
 /* unvisited link */
 .footer-secound ol li a:hover {
     color: green;
-  }
+}
 
 
 .number{
-	text-align: center;
-	font-family:"Times New Roman", Times, serif;
-	font-size: 14px;
-	color:gray; 
+    text-align: center;
+    font-family:"Times New Roman", Times, serif;
+    font-size: 14px;
+    color:gray; 
 }
 
 .email{
-	text-align: center;
-	color:gray;
-	font-size: 14;
-	font-family:"Times New Roman", Times, serif;
-	padding-top: 10px; 
+    text-align: center;
+    color:gray;
+    font-size: 14;
+    font-family:"Times New Roman", Times, serif;
+    padding-top: 10px; 
 }
 
 /*********section-last-footer-my-theme**********/
 
 .sec-mytheme{
-	background-color: #251E1E ;	
+    background-color: #251E1E ;	
 }
 
 .mytheam{
-	text-align: center;
-	color:gray ;
+    text-align: center;
+    color:gray ;
     padding-top: 40px;
     padding-bottom: 40px;
-	font-family:Arial, Helvetica, sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
 }
