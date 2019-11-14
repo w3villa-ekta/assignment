@@ -133,9 +133,6 @@ h1{
     
 }
 
-
-
-
 progress{
     height: .3em;
     width: 346px;
@@ -202,9 +199,7 @@ h2{
     width:40px;
     padding-left: 30px;
     padding-right: 30px;
-    
-    
-    
+        
 }
 
 
@@ -244,9 +239,7 @@ h2{
 
 #banner-one{
     height:auto;
-    width:100%;
-    
-    
+    width:100%;    
 }
 
 
@@ -345,8 +338,8 @@ h1{
 
 .item-1{
     border:5px solid white;
-    height:318px;
-    width:318px;
+    height: 315px;
+    width: 315px;
     float:left;
     background-color: #f0f0f0;
 }
@@ -707,8 +700,8 @@ button:hover{
 /*********section-footer***********/
 
 .sec-footer{
-    border:0px solid red;
-    height:450px;
+   
+    height: 600px;
     width:100%;
     background-color: #333131;
 }
@@ -751,10 +744,10 @@ button:hover{
     color: black;
     text-decoration: none;
     display: inline-block;
-    /* padding: 12px 14px 12px 14px; */
+    padding: 100px 14px 100px 14px;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 13;
+    font-size: 18px;
     font-weight: 600;
     color:gray;
     
@@ -765,15 +758,10 @@ button:hover{
     color: green;
 }
 
-
-
-
 .footer-secound ol{
     list-style-type: center;
     /* padding: 0px 489px 0px 489px; */
-    text-align: center;
-    
-    
+    text-align: center;   
 }
 
 .footer-secound ol li{
@@ -784,10 +772,11 @@ button:hover{
     color: black;
     text-decoration: none;
     display: inline-block;
-    /* padding: 12px 14px 12px 14px; */
+  
+    padding: 0px 14px 0px 14px;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 13;
+    font-size: 17px;
     font-weight: 600;
     color:gray;
     
@@ -802,17 +791,20 @@ button:hover{
 .number{
     text-align: center;
     font-family:"Times New Roman", Times, serif;
-    font-size: 14px;
+    font-size: 17px;
     color:gray; 
 }
 
 .email{
     text-align: center;
     color:gray;
-    font-size: 14;
+    font-size: 17;
     font-family:"Times New Roman", Times, serif;
-    padding-top: 10px; 
+    padding-top: 15px; 
 }
+
+
+
 
 /*********section-last-footer-my-theme**********/
 
