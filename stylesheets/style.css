@@ -5,6 +5,11 @@ common css****/
 body{
     margin: 0;
     padding: 0;
+   
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 
@@ -39,11 +44,16 @@ header .nav-menu ul li a {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 14;
     font-weight: 600;
+    
+  
 }
 
 /* unvisited link */
 .nav-menu ul li a:hover {
-    color: green;
+    background-color: #5CBD9B;
+    border-radius: 23px;
+    color: white;
+    box-shadow: 2px 2px 2px 2px #5CBD9B;
 }
 
 
@@ -74,6 +84,7 @@ header .nav-menu ul li a {
 .ptb-100{
     padding-top: 100px;
     padding-bottom: 100px;
+   
 }
 
 .left-area{
@@ -280,19 +291,20 @@ h2{
 } 
 
 
-
+/* section-portfolio */
 
 .portfolio{
     background-color:  white;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* padding: 5px 40px; */
+    /* padding: 30px 0px 0 0; */
 }
 
 h1{
     font-size: 30px;
     font-family: sans-serif; 
+    padding: 30px 0px 0 0;
 }
 
 #portfolio-hr{
@@ -320,7 +332,7 @@ h1{
     color: black;
     text-decoration: none;
     display: inline-block;
-    padding: 12px 5px 12px 4px;
+    padding: 35px 5px 35px 4px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 14;
     font-weight: 600;
@@ -330,28 +342,36 @@ h1{
 
 /* unvisited link */
 .portfolio ul li a:hover {
-    color: green;
+   
+    color: #5CBD9B;
 }
 
 
 /**************** section-boxes********** */
+.boxes{
+    background-color: white;
+    min-height: 100px;
+    overflow: hidden;
+}
 
 .item-1{
-    border:5px solid white;
-    height: 315px;
-    width: 315px;
+    border:5px solid white ;
+    height: 318px;
+    width: 318px;
     float:left;
-    background-color: #f0f0f0;
+    background-color:  #f1f1f1;
 }
 
 
 /********** viewport******** */
 .sec-viewport{
-    background-color: #f1f1f1;   
+    overflow: hidden;   
+    background-color: #f1f1f1;
 }
 
 .sec-viewport .container {
     text-align: center;
+   
 }
 #btn{
     height:50px; 
@@ -364,11 +384,13 @@ h1{
     background-color: #f1f1f1;
     font-size: 20px;
     box-shadow: 5px 3px 5px 3px #dfd7d7;
+    font-weight: 700px;
 }
 
 #btn:hover{
-    background-color: #f1f1f1;
-    color:black;
+    background-color: #5CBD9B;
+    color: white;
+    font-weight: 700px;
 }
 
 
@@ -496,13 +518,15 @@ h1{
      font-family:Arial, Helvetica, sans-serif; 
     color: gray;
     font-size: 15px;
-    padding: 0px 135px 0px 135px;
+    padding: 10px 135px 10px 135px;;
+    display:block;
     
 }
 
 #ceo{
     color:gray;
     padding: 0px 158px;
+    display:block;
 }
 
 
@@ -544,10 +568,13 @@ h1{
     border-radius: 1px;
     background-color: white;
     margin: 33px;
-    box-shadow: 5px 10px 8px 10px #afa9a9;
-    
-    
-    
+    box-shadow: 5px 10px 8px 10px #f1f1f1;
+    /* background-color: #5CBD9B; */   
+}
+#card-1:hover{
+   
+   box-shadow: 2px 3px 2px 3px #5CBD9B;
+   border-radius: 8px;
 }
 
 h5{
@@ -573,6 +600,8 @@ h5{
     font-family:Arial, Helvetica, sans-serif; 
 }
 
+
+
 .h-1{
     text-align: center;
 }
@@ -583,14 +612,11 @@ table{
     font-family:Arial, Helvetica, sans-serif; 
     font-size: 15px;
     padding-top: 50px;
-    padding-bottom: 50px;
-    
+    padding-bottom: 50px;   
 }
 
 
 tr,td{
-    
-    
     color:gray;
     display: table;
     margin: 0px 44px auto;
@@ -598,17 +624,28 @@ tr,td{
 }
 
 
-h4{
-    
-    font-family:Arial, Helvetica, sans-serif; 
-    color:#302e2e;
-    padding: 30px 0px 30px 0px;
-    text-align: center;
+#btn-1{
+    height: 30px;
+    width: 181px;
+    margin: 40px 59px 39px 59px;
+    color:gray;
+    border:0px solid gray;
+    border-radius: 5px;
+    background-color: #5CBD9B;
+    color:white;
+    font-size: 13px;
+    font-weight: 600;
+    box-shadow: 5px 3px 5px 3px #dfd7d7;
+}
+
+#btn-1:hover{
+    background-color: #5CBD9B;
+    color: white;
 }
 
 /************sec-get-in-touch*********/
 .sec-get-in-touch{
-    height:100%;
+    height:750px;
     width:100%;
 }
 
@@ -620,6 +657,7 @@ h4{
 .right-area.getintouch{
     width: 50%;
     float: left;
+   
 }
 
 
@@ -629,6 +667,7 @@ h4{
     padding-top: 100px;
     padding-left: 100PX;
     padding-right: 100px;
+    /* margin: auto; */
     
     
 }
@@ -640,6 +679,7 @@ h4{
     margin-bottom:20px;
     margin-left: 100px;
     margin-right: 100px;
+
 }
 
 
@@ -650,7 +690,8 @@ h4{
     height:400px;
     width:400px;
     margin-left: 100px;
-    padding-top: 50px;
+    margin-right:100px;
+    padding: 50px 0 50px 0;
 }
 
 
@@ -682,17 +723,18 @@ textarea{
 
 button{
     background-color: black;
-    color:white;
-    border:0px solid black;
-    height:28px;
-    width:200px;
-    font-size: 11px;
+    color: white;
+    border: 0px solid black;
+    height: 30px;
+    width: 200px;
+    font-size: 14px;
 }
 
 button:hover{
-    color:black;
-    background-color: rgb(148, 147, 132);
-    box-shadow: 5px 10px 8px 10px #242323;
+    color:white;
+    font-weight: 600px;
+    background-color:#5CBD9B;
+    box-shadow: 5px 10px 8px 10px #f1f1f1;
 }
 
 
@@ -755,7 +797,7 @@ button:hover{
 
 /* unvisited link */
 .footer-one ul li a:hover {
-    color: green;
+    color: #5CBD9B;
 }
 
 .footer-secound ol{
@@ -784,7 +826,7 @@ button:hover{
 
 /* unvisited link */
 .footer-secound ol li a:hover {
-    color: green;
+    color: #5CBD9B;
 }
 
 
