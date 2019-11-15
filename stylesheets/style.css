@@ -34,6 +34,7 @@ header .nav-menu ul{
 header .nav-menu ul li{
     list-style-type: none;
     display: inline-block;
+    transition: 0.1s all;
 }
 header .nav-menu ul li a {
     color: black;
@@ -44,6 +45,7 @@ header .nav-menu ul li a {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 14;
     font-weight: 600;
+    transition: 0.5s all;
     
   
 }
@@ -182,8 +184,8 @@ progress::-webkit-progress-value {
     line-height: 1.8;
     font-weight: 600px;
     text-align: justify;
-    padding-top: 91px;
-    padding-bottom: 91px;
+    padding-top: 120px;
+    padding-bottom: 120px;
     
 }
 /******************* section-3************* */
