@@ -4,10 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="stylesheets/style.css"> 
+  <link rel="stylesheet" href="stylesheets/responsive.css"> 
   
- <link rel="stylesheet" href="stylesheets/responsive.css"> 
  <link href="https://fonts.googleapis.com/css?family=Questrial|Ubuntu&display=swap" rel="stylesheet">
-
+ <!--for-toggle-button-->
+ <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
 
 
 </head>
@@ -20,7 +21,7 @@
         <img src="images/google-icon.png" alt="">
       </a>
     </div>
-    <div class="nav-menu">
+    <div class="nav-menu" id="nav-bar">
       <ul>
         <li><a href="#home">HOME</a></li>
         <li><a href="#about-us">ABOUT US</a></li>
@@ -28,6 +29,9 @@
         <li><a href="#our-team">OUR TEAM</a></li>
         <li><a href="#plans">PLANS</a></li>
         <li><a href="#contact">CONTACT</a></li>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+          <i class="fa fa-bars"></i>
+        </a>
       </ul>
     </div>  
   </header>
@@ -92,7 +96,7 @@
       
       
   <!-- SECTION--FIFTH -->
-      <section class="sec-google">
+      <section class="ptb-100 sec-google">
         <div class="container">
           <div class="left-area-google-plus">
             
@@ -199,11 +203,11 @@
   <!--SECTION--TEN  -->
             <section class="sec-para">
               <div class="container">
-                <p id="para-sec">Design is a work process which has a user perspective and drives 
+                <p id="para-sec">"Design is a work process which has a user perspective and drives 
                   development based on your specific customers' needs.The design process varies between 
-                  different projects and design fields.</p>
+                  different projects and design fields."</p>
                   
-                  <h3 id="barry-allen">BARRY ALLEN</h3>
+                  <h3 id="barry-allen">"BARRY ALLEN"</h3>
                 </div>
               </section>
               
@@ -438,3 +442,14 @@
               
             </body>
             </html>
+
+            <!-- <script>
+              function myFunction() {
+                var x = document.getElementById("nav-bar");
+                if (x.className === "nav-menu") {
+                  x.className += " responsive";
+                } else {
+                  x.className = "nav-menu";
+                }
+              }
+              </script> -->
