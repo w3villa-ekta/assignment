@@ -8,16 +8,7 @@ html {
         width: 768px;
     }
 /* sec-first */
-header .nav-menu ul li a {
-    padding: 5px 13px;
-    font-size: 13px;
-}
-.nav-menu ul li a:hover {
-    background-color: #5CBD9B;
-    color: white;
-    border-radius: 22px 0px;
-    /* box-shadow: 2px 2px 2px 2px #5CBD9B; */
-}
+
 
 /* sec-secound */
 /* sec-third */
